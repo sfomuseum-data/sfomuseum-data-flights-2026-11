@@ -2,10 +2,12 @@
   "id": 2048747253,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-01",
-    "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "date:cessation_lower": "2026-11-02",
+    "date:cessation_upper": "2026-11-02",
+    "date:inception_lower": "2026-11-02",
+    "date:inception_upper": "2026-11-02",
+    "edtf:cessation": "2026-11-02T05:06:04Z",
+    "edtf:inception": "2026-11-02T04:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.627254,
     "geom:longitude": -103.4008145,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.621076,
     "lbl:longitude": -122.390239,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17285",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143695267"
+    },
     "wof:country": "US",
     "wof:created": 1793636203,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048747253,
     "wof:involves": [
+      1528104575,
       102526927,
       102527513,
       1159285413,
       1947304489
     ],
-    "wof:lastmodified": 1793636203,
+    "wof:lastmodified": 1793637030,
     "wof:name": "UA2131 (SFO-ATL)",
     "wof:parent_id": 1947304489,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048747197,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-01",
+    "date:cessation_upper": "2026-11-01",
     "date:inception_lower": "2026-11-01",
     "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "edtf:cessation": "2026-11-01T10:46:56Z",
+    "edtf:inception": "2026-11-01T06:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143670250"
+    },
     "wof:country": "US",
     "wof:created": 1793636196,
     "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
@@ -94,7 +99,7 @@
       1947304523,
       1159283697
     ],
-    "wof:lastmodified": 1793636196,
+    "wof:lastmodified": 1793637029,
     "wof:name": "UA1885 (SFO-TPA)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

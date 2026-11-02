@@ -2,10 +2,12 @@
   "id": 2048741273,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-01",
-    "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "date:cessation_lower": "2026-11-01",
+    "date:cessation_upper": "2026-11-01",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-11-01T01:36:14-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261101-A-KAL-3083",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +95,14 @@
     ],
     "wof:id": 2048741273,
     "wof:involves": [
+      1159284625,
+      1813375783,
       102527513,
       102533269,
       1159284261,
-      1947304675,
-      1159284625
+      1947304675
     ],
-    "wof:lastmodified": 1793635506,
+    "wof:lastmodified": 1793636431,
     "wof:name": "DL1134 (SEA-SFO)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",

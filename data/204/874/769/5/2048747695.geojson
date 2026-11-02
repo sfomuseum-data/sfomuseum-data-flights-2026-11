@@ -2,10 +2,12 @@
   "id": 2048747695,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-01",
+    "date:cessation_upper": "2026-11-01",
     "date:inception_lower": "2026-11-01",
     "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "edtf:cessation": "2026-11-01T20:45:44Z",
+    "edtf:inception": "2026-11-01T16:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.055307,
     "geom:longitude": -101.315247,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528181,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N78524",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "143693487"
+    },
     "wof:country": "US",
     "wof:created": 1793636254,
     "wof:geomhash": "d7bea1763df143b6882335af1c301bcf",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048747695,
     "wof:involves": [
+      1159289871,
       102528181,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1793636254,
+    "wof:lastmodified": 1793637480,
     "wof:name": "UA8125 (SFO-PIT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048747421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-01",
+    "date:cessation_upper": "2026-11-01",
     "date:inception_lower": "2026-11-01",
     "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "edtf:cessation": "2026-11-01T03:05:19Z",
+    "edtf:inception": "2026-11-01T02:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.3621325,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618774,
     "lbl:longitude": -122.384852,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 1746879083,
     "sfomuseum:base_flight_id": "20261101-D-ACA-4113",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17294",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143665941"
+    },
     "wof:country": "US",
     "wof:created": 1793636222,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048747421,
     "wof:involves": [
+      1528104575,
       1746879083,
       102527513,
       1159285413,
       1947304513,
       1159283597
     ],
-    "wof:lastmodified": 1793636222,
+    "wof:lastmodified": 1793637201,
     "wof:name": "UA400 (SFO-BUR)",
     "wof:parent_id": 1947304513,
     "wof:placetype": "custom",

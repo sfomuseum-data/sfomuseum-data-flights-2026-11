@@ -2,10 +2,12 @@
   "id": 2048739365,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-01",
+    "date:cessation_upper": "2026-11-01",
     "date:inception_lower": "2026-11-01",
     "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "edtf:cessation": "2026-11-01T23:23:39Z",
+    "edtf:inception": "2026-11-01T18:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143695794"
+    },
     "wof:country": "US",
     "wof:created": 1793635257,
     "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
@@ -94,7 +102,7 @@
       1947304283,
       1159285043
     ],
-    "wof:lastmodified": 1793635257,
+    "wof:lastmodified": 1793636366,
     "wof:name": "AA2569 (CLT-SFO)",
     "wof:parent_id": 1947304283,
     "wof:placetype": "custom",

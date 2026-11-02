@@ -2,10 +2,12 @@
   "id": 2048747359,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-02",
+    "date:cessation_upper": "2026-11-02",
     "date:inception_lower": "2026-11-01",
     "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "edtf:cessation": "2026-11-02T01:55:13Z",
+    "edtf:inception": "2026-11-01T21:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 32.0754675,
     "geom:longitude": -102.06817749999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533509,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37540",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143712733"
+    },
     "wof:country": "US",
     "wof:created": 1793636214,
     "wof:geomhash": "faeea62a404843145345d63bcb6a7990",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048747359,
     "wof:involves": [
+      1947304525,
+      1528104577,
       102533509,
       102527513,
-      1159285413,
-      1947304525
+      1159285413
     ],
-    "wof:lastmodified": 1793636214,
+    "wof:lastmodified": 1793637140,
     "wof:name": "UA2661 (SFO-RSW)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

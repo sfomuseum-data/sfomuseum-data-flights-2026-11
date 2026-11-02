@@ -2,10 +2,12 @@
   "id": 2048745731,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-01",
+    "date:cessation_upper": "2026-11-01",
     "date:inception_lower": "2026-11-01",
     "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "edtf:cessation": "2026-11-01T22:04:45Z",
+    "edtf:inception": "2026-11-01T17:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B763",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20261101-D-KLM-5639",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N1602",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143696130"
+    },
     "wof:country": "US",
     "wof:created": 1793636028,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048745731,
     "wof:involves": [
+      1159289965,
       102534365,
       102527513,
       1159284261,
       1947304681,
       1159284613
     ],
-    "wof:lastmodified": 1793636028,
+    "wof:lastmodified": 1793636683,
     "wof:name": "DL606 (SFO-JFK)",
     "wof:parent_id": 1947304681,
     "wof:placetype": "custom",

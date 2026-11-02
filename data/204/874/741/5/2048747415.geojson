@@ -2,10 +2,12 @@
   "id": 2048747415,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-11-01",
     "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-11-01T12:23:15-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.6236995,
     "geom:longitude": -109.8176305,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527175,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17302",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -86,9 +95,10 @@
       102527175,
       102527513,
       1159285413,
-      1947304623
+      1947304623,
+      1528104575
     ],
-    "wof:lastmodified": 1793636221,
+    "wof:lastmodified": 1793637198,
     "wof:name": "UA3876 (SFO-IAB)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

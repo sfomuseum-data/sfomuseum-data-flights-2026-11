@@ -2,10 +2,12 @@
   "id": 2048745739,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-02",
+    "date:cessation_upper": "2026-11-02",
     "date:inception_lower": "2026-11-01",
     "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "edtf:cessation": "2026-11-02T03:35:24Z",
+    "edtf:inception": "2026-11-01T22:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143720756"
+    },
     "wof:country": "US",
     "wof:created": 1793636028,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -94,7 +102,7 @@
       1947304681,
       1159283627
     ],
-    "wof:lastmodified": 1793636028,
+    "wof:lastmodified": 1793636684,
     "wof:name": "DL630 (SFO-JFK)",
     "wof:parent_id": 1947304681,
     "wof:placetype": "custom",

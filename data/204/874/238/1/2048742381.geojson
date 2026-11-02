@@ -2,10 +2,12 @@
   "id": 2048742381,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-02",
+    "date:cessation_upper": "2026-11-02",
     "date:inception_lower": "2026-11-01",
     "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "edtf:cessation": "2026-11-01T23:27:43-08:00",
+    "edtf:inception": "2026-11-01T14:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527209,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N8316H",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143683910"
+    },
     "wof:country": "US",
     "wof:created": 1793635637,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -86,9 +98,10 @@
       102527513,
       102527209,
       1159285591,
-      1947304599
+      1947304599,
+      1159289871
     ],
-    "wof:lastmodified": 1793635637,
+    "wof:lastmodified": 1793636514,
     "wof:name": "WN496 (LAS-SFO)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

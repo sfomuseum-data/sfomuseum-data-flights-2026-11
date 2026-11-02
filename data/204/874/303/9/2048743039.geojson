@@ -2,10 +2,12 @@
   "id": 2048743039,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-01",
+    "date:cessation_upper": "2026-11-01",
     "date:inception_lower": "2026-11-01",
     "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "edtf:cessation": "2026-11-01T04:26:59-08:00",
+    "edtf:inception": "2026-11-01T18:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.529906499999996,
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619451,
     "lbl:longitude": -122.384404,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533269,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N811UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143758963"
+    },
     "wof:country": "US",
     "wof:created": 1793635714,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048743039,
     "wof:involves": [
-      102527513,
-      102533269,
       1159285413,
-      1947304519
+      1947304519,
+      1159289407,
+      102527513,
+      102533269
     ],
-    "wof:lastmodified": 1793635714,
+    "wof:lastmodified": 1793636549,
     "wof:name": "UA3926 (SEA-SFO)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",

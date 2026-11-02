@@ -2,10 +2,12 @@
   "id": 2048747723,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-01",
-    "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "date:cessation_lower": "2026-11-02",
+    "date:cessation_upper": "2026-11-02",
+    "date:inception_lower": "2026-11-02",
+    "date:inception_upper": "2026-11-02",
+    "edtf:cessation": "2026-11-02T22:57:28Z",
+    "edtf:inception": "2026-11-02T08:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143670480"
+    },
     "wof:country": "US",
     "wof:created": 1793636257,
     "wof:geomhash": "148b50b9c1c42c575a8cdcaf5b598e8f",
@@ -94,7 +102,7 @@
       1947304131,
       1159286015
     ],
-    "wof:lastmodified": 1793636257,
+    "wof:lastmodified": 1793637509,
     "wof:name": "UA863 (SFO-SYD)",
     "wof:parent_id": 1947304131,
     "wof:placetype": "custom",

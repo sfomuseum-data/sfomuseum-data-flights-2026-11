@@ -2,10 +2,12 @@
   "id": 2048742833,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-01",
+    "date:cessation_upper": "2026-11-01",
     "date:inception_lower": "2026-11-01",
     "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "edtf:cessation": "2026-11-01T01:53:03-08:00",
+    "edtf:inception": "2026-11-01T17:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.294839499999995,
     "geom:longitude": -123.2394815,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531997,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37267",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143691750"
+    },
     "wof:country": "US",
     "wof:created": 1793635689,
     "wof:geomhash": "dcc7d5812c5708e8b42757f5054e75d6",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048742833,
     "wof:involves": [
+      1159289871,
       102527513,
       102531997,
       1159285413,
       1947304623
     ],
-    "wof:lastmodified": 1793635689,
+    "wof:lastmodified": 1793636546,
     "wof:name": "UA217 (ACV-SFO)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

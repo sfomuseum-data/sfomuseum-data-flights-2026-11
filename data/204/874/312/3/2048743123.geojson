@@ -2,10 +2,12 @@
   "id": 2048743123,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-01",
+    "date:cessation_upper": "2026-11-01",
     "date:inception_lower": "2026-11-01",
     "date:inception_upper": "2026-11-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-01",
+    "edtf:cessation": "2026-11-01T13:38:20-08:00",
+    "edtf:inception": "2026-11-01T01:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.2977885,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261101-A-ACA-4964",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N848UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143664571"
+    },
     "wof:country": "US",
     "wof:created": 1793635724,
     "wof:geomhash": "e506e1cc6e68aaf992ce3bac53e4e4fa",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048743123,
     "wof:involves": [
-      102527513,
-      102527733,
       1159285413,
       1947304603,
-      1159283597
+      1159283597,
+      1159289407,
+      102527513,
+      102527733
     ],
-    "wof:lastmodified": 1793635724,
+    "wof:lastmodified": 1793636552,
     "wof:name": "UA528 (BOI-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",
