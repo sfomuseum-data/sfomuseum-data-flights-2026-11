@@ -1,0 +1,72 @@
+{
+  "id": 2048750207,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-02",
+    "date:inception_upper": "2026-11-02",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-02",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-11-02",
+    "flysfo:estimated_timestamp": 1793668260,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL8840",
+    "flysfo:gate": "",
+    "flysfo:journey": "YVR-SFO",
+    "flysfo:scheduled_timestamp": 1793666160,
+    "flysfo:timestamp": 1793668260,
+    "geom:area": 0,
+    "geom:bbox": "-123.179200,37.617990,-122.370943,49.193330",
+    "geom:latitude": 43.40566,
+    "geom:longitude": -122.7750715,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102555307,
+    "sfomuseum:flight_id": "20261102-A-DAL-8840",
+    "sfomuseum:flight_number": [
+      "DAL8840",
+      "DL8840"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1793721887,
+    "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048750207,
+        "flight_id": 2048750207
+      }
+    ],
+    "wof:id": 2048750207,
+    "wof:involves": [
+      102527513,
+      102555307,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1793721887,
+    "wof:name": "DL8840 (YVR-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -123.1792,
+    37.61799,
+    -122.370943,
+    49.19333
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]]}
+}
