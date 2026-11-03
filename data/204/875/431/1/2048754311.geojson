@@ -2,10 +2,12 @@
   "id": 2048754311,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-02",
     "date:inception_upper": "2026-11-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-02",
+    "edtf:cessation": "2026-11-03T09:38:20Z",
+    "edtf:inception": "2026-11-02T23:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LH",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143787625"
+    },
     "wof:country": "US",
     "wof:created": 1793722355,
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
@@ -94,7 +102,7 @@
       1947304153,
       1159283697
     ],
-    "wof:lastmodified": 1793722355,
+    "wof:lastmodified": 1793722658,
     "wof:name": "LH455 (SFO-FRA)",
     "wof:parent_id": 1947304153,
     "wof:placetype": "custom",

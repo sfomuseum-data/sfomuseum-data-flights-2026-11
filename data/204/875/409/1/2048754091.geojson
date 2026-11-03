@@ -2,10 +2,12 @@
   "id": 2048754091,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-02",
     "date:inception_upper": "2026-11-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-02",
+    "edtf:cessation": "2026-11-03T09:36:36Z",
+    "edtf:inception": "2026-11-02T21:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MU",
     "flysfo:date": "2026-11-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 34.381651,
     "geom:longitude": -0.285817999999999,
     "iata:airline": "MU",
+    "icao:aircraft": "B77W",
     "icao:airline": "CES",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159284157,
     "sfomuseum:arrival_id": 102550331,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "B7369",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143775191"
+    },
     "wof:country": "US",
     "wof:created": 1793722330,
     "wof:geomhash": "014430cde1a85b033fb3b4a447168595",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048754091,
     "wof:involves": [
-      102550331,
-      102527513,
       1159284157,
-      1947304075
+      1947304075,
+      1159289993,
+      102550331,
+      102527513
     ],
-    "wof:lastmodified": 1793722330,
+    "wof:lastmodified": 1793722656,
     "wof:name": "MU590 (SFO-PVG)",
     "wof:parent_id": 1947304075,
     "wof:placetype": "custom",

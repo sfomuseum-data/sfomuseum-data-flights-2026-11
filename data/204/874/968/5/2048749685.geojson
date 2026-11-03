@@ -2,10 +2,12 @@
   "id": 2048749685,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-02",
+    "date:cessation_upper": "2026-11-02",
     "date:inception_lower": "2026-11-02",
     "date:inception_upper": "2026-11-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-02",
+    "edtf:cessation": "2026-11-02T09:34:52-08:00",
+    "edtf:inception": "2026-11-02T00:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261102-A-BAW-7609",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N912AK",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143724164"
+    },
     "wof:country": "US",
     "wof:created": 1793721823,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -92,9 +104,10 @@
       102533795,
       1159283813,
       1947304275,
-      1159284021
+      1159284021,
+      1528104577
     ],
-    "wof:lastmodified": 1793721823,
+    "wof:lastmodified": 1793722617,
     "wof:name": "AS91 (LAX-SFO)",
     "wof:parent_id": 1947304275,
     "wof:placetype": "custom",

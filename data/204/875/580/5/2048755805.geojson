@@ -2,10 +2,12 @@
   "id": 2048755805,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-02",
-    "date:inception_upper": "2026-11-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-02",
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
+    "date:inception_lower": "2026-11-03",
+    "date:inception_upper": "2026-11-03",
+    "edtf:cessation": "2026-11-03T09:35:02Z",
+    "edtf:inception": "2026-11-03T05:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.8087165,
     "geom:longitude": -102.62808,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532255,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17362",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143737202"
+    },
     "wof:country": "US",
     "wof:created": 1793722522,
     "wof:geomhash": "b3e3651b522d461c555c2feff400782a",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048755805,
     "wof:involves": [
+      1528104575,
       102532255,
       102527513,
       1159285413,
       1947304603
     ],
-    "wof:lastmodified": 1793722522,
+    "wof:lastmodified": 1793722671,
     "wof:name": "UA2860 (SFO-CMH)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

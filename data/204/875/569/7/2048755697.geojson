@@ -2,10 +2,12 @@
   "id": 2048755697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-02",
+    "date:cessation_upper": "2026-11-02",
     "date:inception_lower": "2026-11-02",
     "date:inception_upper": "2026-11-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-02",
+    "edtf:cessation": "2026-11-02T04:35:21Z",
+    "edtf:inception": "2026-11-02T00:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143727036"
+    },
     "wof:country": "US",
     "wof:created": 1793722510,
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
@@ -94,7 +99,7 @@
       1947304141,
       1159283697
     ],
-    "wof:lastmodified": 1793722510,
+    "wof:lastmodified": 1793722670,
     "wof:name": "UA2262 (SFO-BNA)",
     "wof:parent_id": 1947304141,
     "wof:placetype": "custom",

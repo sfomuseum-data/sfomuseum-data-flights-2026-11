@@ -2,10 +2,12 @@
   "id": 2048755657,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-02",
     "date:inception_upper": "2026-11-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-02",
+    "edtf:cessation": "2026-11-03T03:30:15Z",
+    "edtf:inception": "2026-11-02T22:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143786286"
+    },
     "wof:country": "US",
     "wof:created": 1793722506,
     "wof:geomhash": "739cf7062aa24bbf1662c0bae366af8d",
@@ -94,7 +102,7 @@
       1947304525,
       1159283697
     ],
-    "wof:lastmodified": 1793722506,
+    "wof:lastmodified": 1793722669,
     "wof:name": "UA1960 (SFO-RDU)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048751753,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-02",
+    "date:cessation_upper": "2026-11-02",
     "date:inception_lower": "2026-11-02",
     "date:inception_upper": "2026-11-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-02",
+    "edtf:cessation": "2026-11-02T23:03:47Z",
+    "edtf:inception": "2026-11-02T22:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143785449"
+    },
     "wof:country": "US",
     "wof:created": 1793722065,
     "wof:geomhash": "10bf27aabb5200ef4863b11f6c2a5d60",
@@ -94,7 +102,7 @@
       1947304523,
       1159285749
     ],
-    "wof:lastmodified": 1793722065,
+    "wof:lastmodified": 1793722641,
     "wof:name": "UA2825 (MFR-SFO)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

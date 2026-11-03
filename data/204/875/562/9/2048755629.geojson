@@ -2,10 +2,12 @@
   "id": 2048755629,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-02",
+    "date:cessation_upper": "2026-11-02",
     "date:inception_lower": "2026-11-02",
     "date:inception_upper": "2026-11-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-02",
+    "edtf:cessation": "2026-11-02T21:15:45Z",
+    "edtf:inception": "2026-11-02T20:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143776469"
+    },
     "wof:country": "US",
     "wof:created": 1793722503,
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
@@ -94,7 +102,7 @@
       1947304311,
       1159283597
     ],
-    "wof:lastmodified": 1793722503,
+    "wof:lastmodified": 1793722669,
     "wof:name": "UA1845 (SFO-RNO)",
     "wof:parent_id": 1947304311,
     "wof:placetype": "custom",

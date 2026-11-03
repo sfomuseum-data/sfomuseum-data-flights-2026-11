@@ -2,10 +2,12 @@
   "id": 2048750223,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-02",
-    "date:inception_upper": "2026-11-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-02",
+    "date:cessation_lower": "2026-11-02",
+    "date:cessation_upper": "2026-11-02",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-11-02T04:47:31-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LH",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -57.5518295,
     "iata:airline": "LH",
     "iata:base_airline": "",
+    "icao:aircraft": "A359",
     "icao:airline": "DLH",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61844,
     "lbl:longitude": -122.392214,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159286015,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261102-A-ANZ-4220",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "DAIXE",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +100,10 @@
       102549057,
       1159286015,
       1947304153,
-      1159283697
+      1159283697,
+      1377564293
     ],
-    "wof:lastmodified": 1793721889,
+    "wof:lastmodified": 1793722625,
     "wof:name": "LH454 (FRA-SFO)",
     "wof:parent_id": 1947304153,
     "wof:placetype": "custom",

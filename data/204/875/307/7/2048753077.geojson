@@ -2,10 +2,12 @@
   "id": 2048753077,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-02",
-    "date:inception_upper": "2026-11-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-02",
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
+    "date:inception_lower": "2026-11-03",
+    "date:inception_upper": "2026-11-03",
+    "edtf:cessation": "2026-11-03T05:47:46Z",
+    "edtf:inception": "2026-11-03T01:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:base_flight_id": "20261102-D-ANZ-4501",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGITU",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143726676"
+    },
     "wof:country": "US",
     "wof:created": 1793722217,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048753077,
     "wof:involves": [
+      1159283697,
+      1159289411,
       102555091,
       102527513,
       1159283597,
-      1947304627,
-      1159283697
+      1947304627
     ],
-    "wof:lastmodified": 1793722217,
+    "wof:lastmodified": 1793722650,
     "wof:name": "AC744 (SFO-YYZ)",
     "wof:parent_id": 1947304627,
     "wof:placetype": "custom",
