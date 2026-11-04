@@ -1,0 +1,72 @@
+{
+  "id": 2048758621,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-03",
+    "date:inception_upper": "2026-11-03",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-03",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "LY",
+    "flysfo:date": "2026-11-03",
+    "flysfo:estimated_timestamp": 1793760000,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "LY49",
+    "flysfo:gate": "",
+    "flysfo:journey": "TLV-SFO",
+    "flysfo:scheduled_timestamp": 1793714400,
+    "flysfo:timestamp": 1793760000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.005595,34.877214,37.617990",
+    "geom:latitude": 34.811792499999996,
+    "geom:longitude": -43.7468645,
+    "iata:airline": "LY",
+    "icao:airline": "ELY",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284327,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102542687,
+    "sfomuseum:flight_id": "20261103-A-ELY-49",
+    "sfomuseum:flight_number": [
+      "ELY49",
+      "LY49"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1793808303,
+    "wof:geomhash": "87edecefb4d177e60996116ddda38e44",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048758621,
+        "flight_id": 2048758621
+      }
+    ],
+    "wof:id": 2048758621,
+    "wof:involves": [
+      102527513,
+      102542687,
+      1159284327,
+      -1
+    ],
+    "wof:lastmodified": 1793808303,
+    "wof:name": "LY49 (TLV-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    32.005595,
+    34.877214,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[34.877214,32.005595],[-122.370943,37.61799]]}
+}
