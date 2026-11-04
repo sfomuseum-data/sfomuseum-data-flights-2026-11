@@ -2,10 +2,12 @@
   "id": 2048763535,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-03",
     "date:inception_upper": "2026-11-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-03",
+    "edtf:cessation": "2026-11-03T20:38:17Z",
+    "edtf:inception": "2026-11-03T18:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143841113"
+    },
     "wof:country": "US",
     "wof:created": 1793808867,
     "wof:geomhash": "029159a11f35cb7f92e728b838da58ba",
@@ -94,7 +102,7 @@
       1947304609,
       1159283597
     ],
-    "wof:lastmodified": 1793808867,
+    "wof:lastmodified": 1793809018,
     "wof:name": "UA2048 (SFO-ABQ)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

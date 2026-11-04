@@ -2,10 +2,12 @@
   "id": 2048763451,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-03",
     "date:inception_upper": "2026-11-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-03",
+    "edtf:cessation": "2026-11-03T18:16:57Z",
+    "edtf:inception": "2026-11-03T17:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143831052"
+    },
     "wof:country": "US",
     "wof:created": 1793808857,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -94,7 +102,7 @@
       1763588337,
       1159283597
     ],
-    "wof:lastmodified": 1793808857,
+    "wof:lastmodified": 1793809017,
     "wof:name": "UA1627 (SFO-LAS)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

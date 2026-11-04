@@ -2,10 +2,12 @@
   "id": 2048763709,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-03",
     "date:inception_upper": "2026-11-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-03",
+    "edtf:cessation": "2026-11-03T20:05:10Z",
+    "edtf:inception": "2026-11-03T18:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143832097"
+    },
     "wof:country": "US",
     "wof:created": 1793808888,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -94,7 +102,7 @@
       1947304619,
       1159283597
     ],
-    "wof:lastmodified": 1793808888,
+    "wof:lastmodified": 1793809020,
     "wof:name": "UA493 (SFO-DEN)",
     "wof:parent_id": 1947304619,
     "wof:placetype": "custom",

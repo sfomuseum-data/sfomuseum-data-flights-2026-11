@@ -2,10 +2,12 @@
   "id": 2048763383,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-11-03",
     "date:inception_upper": "2026-11-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-03",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-11-03T09:26:53-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.4384925,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618249,
     "lbl:longitude": -122.381477,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533591,
     "sfomuseum:base_flight_id": "20261103-D-ACA-4212",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N801UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +97,14 @@
     ],
     "wof:id": 2048763383,
     "wof:involves": [
-      102533591,
       102527513,
       1159285413,
       1947304631,
-      1159283597
+      1159283597,
+      1159289407,
+      102533591
     ],
-    "wof:lastmodified": 1793808849,
+    "wof:lastmodified": 1793809016,
     "wof:name": "UA1228 (SFO-PSP)",
     "wof:parent_id": 1947304631,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048762409,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-03",
     "date:inception_upper": "2026-11-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-03",
+    "edtf:cessation": "2026-11-03T18:33:35Z",
+    "edtf:inception": "2026-11-03T17:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143834281"
+    },
     "wof:country": "US",
     "wof:created": 1793808740,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -94,7 +102,7 @@
       1947304285,
       1360700749
     ],
-    "wof:lastmodified": 1793808740,
+    "wof:lastmodified": 1793809011,
     "wof:name": "F91850 (SFO-LAS)",
     "wof:parent_id": 1947304285,
     "wof:placetype": "custom",

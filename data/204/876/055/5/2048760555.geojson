@@ -2,10 +2,12 @@
   "id": 2048760555,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-03",
     "date:inception_upper": "2026-11-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-03",
+    "edtf:cessation": "2026-11-03T18:47:48Z",
+    "edtf:inception": "2026-11-03T17:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-11-03",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143831642"
+    },
     "wof:country": "US",
     "wof:created": 1793808526,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -88,7 +96,7 @@
       1159283849,
       1947304277
     ],
-    "wof:lastmodified": 1793808526,
+    "wof:lastmodified": 1793808996,
     "wof:name": "AA2411 (SFO-PHX)",
     "wof:parent_id": 1947304277,
     "wof:placetype": "custom",

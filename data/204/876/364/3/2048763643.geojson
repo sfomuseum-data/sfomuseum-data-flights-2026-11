@@ -2,10 +2,12 @@
   "id": 2048763643,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-03",
     "date:inception_upper": "2026-11-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-03",
+    "edtf:cessation": "2026-11-03T01:30:29Z",
+    "edtf:inception": "2026-11-03T00:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143794770"
+    },
     "wof:country": "US",
     "wof:created": 1793808880,
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
@@ -94,7 +99,7 @@
       1947304481,
       1159283597
     ],
-    "wof:lastmodified": 1793808880,
+    "wof:lastmodified": 1793809019,
     "wof:name": "UA2825 (SFO-RNO)",
     "wof:parent_id": 1947304481,
     "wof:placetype": "custom",

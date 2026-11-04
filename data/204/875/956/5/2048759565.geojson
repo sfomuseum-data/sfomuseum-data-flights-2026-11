@@ -2,10 +2,12 @@
   "id": 2048759565,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-03",
     "date:inception_upper": "2026-11-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-03",
+    "edtf:cessation": "2026-11-03T05:34:34Z",
+    "edtf:inception": "2026-11-03T03:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143798938"
+    },
     "wof:country": "US",
     "wof:created": 1793808414,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -94,7 +99,7 @@
       1947304457,
       1159283597
     ],
-    "wof:lastmodified": 1793808414,
+    "wof:lastmodified": 1793808988,
     "wof:name": "UA1389 (DEN-SFO)",
     "wof:parent_id": 1947304457,
     "wof:placetype": "custom",

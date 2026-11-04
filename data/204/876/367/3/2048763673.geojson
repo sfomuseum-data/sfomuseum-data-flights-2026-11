@@ -2,10 +2,12 @@
   "id": 2048763673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-03",
     "date:inception_upper": "2026-11-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-03",
+    "edtf:cessation": "2026-11-03T15:14:27Z",
+    "edtf:inception": "2026-11-03T04:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-03",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "143804998"
+    },
     "wof:country": "US",
     "wof:created": 1793808884,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -51,7 +56,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1793808884,
+    "wof:lastmodified": 1793809019,
     "wof:name": "UA3912 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

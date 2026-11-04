@@ -2,10 +2,12 @@
   "id": 2048758343,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-03",
     "date:inception_upper": "2026-11-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-03",
+    "edtf:cessation": "2026-11-03T08:27:05-08:00",
+    "edtf:inception": "2026-11-03T22:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261103-A-KLM-6745",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N905DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143859183"
+    },
     "wof:country": "US",
     "wof:created": 1793808270,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -92,9 +104,10 @@
       102527363,
       1159284261,
       1947304681,
-      1159284613
+      1159284613,
+      1377564285
     ],
-    "wof:lastmodified": 1793808270,
+    "wof:lastmodified": 1793808980,
     "wof:name": "DL1088 (SLC-SFO)",
     "wof:parent_id": 1947304681,
     "wof:placetype": "custom",

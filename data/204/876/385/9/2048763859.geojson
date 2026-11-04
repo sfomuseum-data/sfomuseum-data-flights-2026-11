@@ -2,10 +2,12 @@
   "id": 2048763859,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-03",
     "date:inception_upper": "2026-11-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-03",
+    "edtf:cessation": "2026-11-03T11:45:12Z",
+    "edtf:inception": "2026-11-03T07:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143804576"
+    },
     "wof:country": "US",
     "wof:created": 1793808905,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -94,7 +99,7 @@
       1947304459,
       1159283697
     ],
-    "wof:lastmodified": 1793808905,
+    "wof:lastmodified": 1793809026,
     "wof:name": "UA649 (SFO-EWR)",
     "wof:parent_id": 1947304459,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048760025,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-03",
     "date:inception_upper": "2026-11-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-03",
+    "edtf:cessation": "2026-11-03T08:30:01-08:00",
+    "edtf:inception": "2026-11-03T22:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ITY",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261103-A-ITY-4494",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N33203",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143842034"
+    },
     "wof:country": "US",
     "wof:created": 1793808467,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -92,9 +104,10 @@
       102533269,
       1159285413,
       1947304525,
-      1763699293
+      1763699293,
+      1159289871
     ],
-    "wof:lastmodified": 1793808467,
+    "wof:lastmodified": 1793808992,
     "wof:name": "UA737 (SEA-SFO)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

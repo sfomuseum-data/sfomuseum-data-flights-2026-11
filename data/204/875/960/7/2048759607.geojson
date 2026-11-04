@@ -2,10 +2,12 @@
   "id": 2048759607,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-03",
+    "date:cessation_upper": "2026-11-03",
     "date:inception_lower": "2026-11-03",
     "date:inception_upper": "2026-11-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-03",
+    "edtf:cessation": "2026-11-03T14:54:17Z",
+    "edtf:inception": "2026-11-03T09:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143808410"
+    },
     "wof:country": "US",
     "wof:created": 1793808419,
     "wof:geomhash": "46fccc0e56242535ccfd5ecb278f9a75",
@@ -94,7 +102,7 @@
       1947304527,
       1159286015
     ],
-    "wof:lastmodified": 1793808419,
+    "wof:lastmodified": 1793808988,
     "wof:name": "UA1685 (LIH-SFO)",
     "wof:parent_id": 1947304527,
     "wof:placetype": "custom",
