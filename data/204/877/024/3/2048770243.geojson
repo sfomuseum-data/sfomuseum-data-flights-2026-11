@@ -2,10 +2,12 @@
   "id": 2048770243,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-11-04",
     "date:inception_upper": "2026-11-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-04",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-11-04T13:42:25-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-11-04",
@@ -21,6 +23,7 @@
     "geom:latitude": 35.627254,
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
+    "icao:aircraft": "CC29",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
@@ -34,6 +37,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N504DZ",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,7 +96,7 @@
       1159284261,
       1947304675
     ],
-    "wof:lastmodified": 1793895151,
+    "wof:lastmodified": 1793895462,
     "wof:name": "DL635 (SFO-ATL)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",

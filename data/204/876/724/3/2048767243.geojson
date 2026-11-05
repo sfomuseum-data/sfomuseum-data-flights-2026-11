@@ -2,10 +2,12 @@
   "id": 2048767243,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-04",
+    "date:cessation_upper": "2026-11-04",
     "date:inception_lower": "2026-11-04",
     "date:inception_upper": "2026-11-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-04",
+    "edtf:cessation": "2026-11-04T08:01:16-08:00",
+    "edtf:inception": "2026-11-04T19:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8721885,
     "geom:longitude": -104.5237975,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102525035,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N8614M",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143918761"
+    },
     "wof:country": "US",
     "wof:created": 1793894810,
     "wof:geomhash": "462e561a68f133085fb895c49eddc748",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048767243,
     "wof:involves": [
+      1159289871,
       102527513,
       102525035,
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1793894810,
+    "wof:lastmodified": 1793895437,
     "wof:name": "WN4254 (BNA-SFO)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

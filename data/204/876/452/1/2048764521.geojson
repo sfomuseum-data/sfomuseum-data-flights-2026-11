@@ -2,10 +2,12 @@
   "id": 2048764521,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-04",
+    "date:cessation_upper": "2026-11-04",
     "date:inception_lower": "2026-11-04",
     "date:inception_upper": "2026-11-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-04",
+    "edtf:cessation": "2026-11-04T20:20:33Z",
+    "edtf:inception": "2026-11-04T14:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143896027"
+    },
     "wof:country": "US",
     "wof:created": 1793894476,
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
@@ -94,7 +102,7 @@
       1947304277,
       1779770725
     ],
-    "wof:lastmodified": 1793894476,
+    "wof:lastmodified": 1793895411,
     "wof:name": "AA627 (MIA-SFO)",
     "wof:parent_id": 1947304277,
     "wof:placetype": "custom",

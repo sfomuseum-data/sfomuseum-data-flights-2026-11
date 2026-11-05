@@ -2,10 +2,12 @@
   "id": 2048765703,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-04",
+    "date:cessation_upper": "2026-11-04",
     "date:inception_lower": "2026-11-04",
     "date:inception_upper": "2026-11-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-04",
+    "edtf:cessation": "2026-11-04T11:16:35-08:00",
+    "edtf:inception": "2026-11-04T21:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "QTR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261104-A-QTR-2170",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N528AS",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143933549"
+    },
     "wof:country": "US",
     "wof:created": 1793894632,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048765703,
     "wof:involves": [
+      1159286153,
+      1159289871,
       102527513,
       102534365,
       1159283813,
-      1947304293,
-      1159286153
+      1947304293
     ],
-    "wof:lastmodified": 1793894632,
+    "wof:lastmodified": 1793895418,
     "wof:name": "AS41 (JFK-SFO)",
     "wof:parent_id": 1947304293,
     "wof:placetype": "custom",

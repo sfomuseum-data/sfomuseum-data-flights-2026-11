@@ -2,10 +2,12 @@
   "id": 2048767807,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-04",
+    "date:cessation_upper": "2026-11-04",
     "date:inception_lower": "2026-11-04",
     "date:inception_upper": "2026-11-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-04",
+    "edtf:cessation": "2026-11-04T23:03:27Z",
+    "edtf:inception": "2026-11-04T18:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-04",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143917757"
+    },
     "wof:country": "US",
     "wof:created": 1793894874,
     "wof:geomhash": "a7e835886f555fd347028edc152f9d8c",
@@ -88,7 +96,7 @@
       1159285413,
       1947304525
     ],
-    "wof:lastmodified": 1793894874,
+    "wof:lastmodified": 1793895443,
     "wof:name": "UA451 (MSY-SFO)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

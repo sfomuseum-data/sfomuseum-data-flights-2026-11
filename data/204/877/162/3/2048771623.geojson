@@ -2,10 +2,12 @@
   "id": 2048771623,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-05",
+    "date:cessation_upper": "2026-11-05",
     "date:inception_lower": "2026-11-04",
     "date:inception_upper": "2026-11-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-04",
+    "edtf:cessation": "2026-11-05T02:18:33Z",
+    "edtf:inception": "2026-11-04T22:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143915902"
+    },
     "wof:country": "US",
     "wof:created": 1793895308,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -94,7 +102,7 @@
       1947304609,
       1159283697
     ],
-    "wof:lastmodified": 1793895308,
+    "wof:lastmodified": 1793895471,
     "wof:name": "UA2340 (SFO-SEA)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

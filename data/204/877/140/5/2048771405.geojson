@@ -2,10 +2,12 @@
   "id": 2048771405,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-04",
+    "date:cessation_upper": "2026-11-04",
     "date:inception_lower": "2026-11-04",
     "date:inception_upper": "2026-11-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-04",
+    "edtf:cessation": "2026-11-04T18:57:46Z",
+    "edtf:inception": "2026-11-04T15:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143900926"
+    },
     "wof:country": "US",
     "wof:created": 1793895284,
     "wof:geomhash": "8b4edcad4124de1c487808d2d2d1ecd3",
@@ -94,7 +102,7 @@
       1947304609,
       1159283697
     ],
-    "wof:lastmodified": 1793895284,
+    "wof:lastmodified": 1793895469,
     "wof:name": "UA1076 (SFO-MSY)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

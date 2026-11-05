@@ -2,10 +2,12 @@
   "id": 2048767215,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-04",
+    "date:cessation_upper": "2026-11-04",
     "date:inception_lower": "2026-11-04",
     "date:inception_upper": "2026-11-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-04",
+    "edtf:cessation": "2026-11-04T01:35:26-08:00",
+    "edtf:inception": "2026-11-04T14:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.231919500000004,
     "geom:longitude": -109.610733,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102525799,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N8910Q",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143895940"
+    },
     "wof:country": "US",
     "wof:created": 1793894806,
     "wof:geomhash": "ecfc64ce72b903780fc129f985c12eef",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048767215,
     "wof:involves": [
+      1528104575,
       102527513,
       102525799,
       1159285591,
       1947304621
     ],
-    "wof:lastmodified": 1793894806,
+    "wof:lastmodified": 1793895437,
     "wof:name": "WN2175 (DAL-SFO)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",
