@@ -2,10 +2,12 @@
   "id": 2048781269,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-05",
-    "date:inception_upper": "2026-11-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-05",
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
+    "date:inception_lower": "2026-11-06",
+    "date:inception_upper": "2026-11-06",
+    "edtf:cessation": "2026-11-06T12:13:15Z",
+    "edtf:inception": "2026-11-06T07:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:base_flight_id": "20261105-D-ANZ-9166",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143961206"
+    },
     "wof:country": "US",
     "wof:created": 1793981836,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2048781269,
     "wof:involves": [
+      1159283697,
+      1528104577,
       102528817,
       102527513,
       1159285413,
-      1947304515,
-      1159283697
+      1947304515
     ],
-    "wof:lastmodified": 1793981836,
+    "wof:lastmodified": 1793982025,
     "wof:name": "UA2837 (SFO-IAD)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

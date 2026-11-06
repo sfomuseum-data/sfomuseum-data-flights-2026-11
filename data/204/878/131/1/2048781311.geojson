@@ -2,10 +2,12 @@
   "id": 2048781311,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-05",
     "date:inception_upper": "2026-11-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-05",
+    "edtf:cessation": "2026-11-06T04:19:17Z",
+    "edtf:inception": "2026-11-05T23:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.283618000000004,
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620244,
     "lbl:longitude": -122.387813,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528817,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N33132",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144056821"
+    },
     "wof:country": "US",
     "wof:created": 1793981841,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048781311,
     "wof:involves": [
+      1947304463,
+      1159289939,
       102528817,
       102527513,
-      1159285413,
-      1947304463
+      1159285413
     ],
-    "wof:lastmodified": 1793981841,
+    "wof:lastmodified": 1793982025,
     "wof:name": "UA3913 (SFO-IAD)",
     "wof:parent_id": 1947304463,
     "wof:placetype": "custom",

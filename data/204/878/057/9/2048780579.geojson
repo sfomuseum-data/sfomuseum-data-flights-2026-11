@@ -2,10 +2,12 @@
   "id": 2048780579,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-05",
     "date:inception_upper": "2026-11-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-05",
+    "edtf:cessation": "2026-11-06T00:36:46Z",
+    "edtf:inception": "2026-11-05T23:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-05",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144025924"
+    },
     "wof:country": "US",
     "wof:created": 1793981755,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -88,7 +96,7 @@
       1159285591,
       1947304621
     ],
-    "wof:lastmodified": 1793981755,
+    "wof:lastmodified": 1793982019,
     "wof:name": "WN1790 (SFO-LAS)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048779649,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-05",
+    "date:cessation_upper": "2026-11-05",
     "date:inception_lower": "2026-11-05",
     "date:inception_upper": "2026-11-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-05",
+    "edtf:cessation": "2026-11-05T13:31:17Z",
+    "edtf:inception": "2026-11-05T11:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-11-05",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144042532"
+    },
     "wof:country": "US",
     "wof:created": 1793981646,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -88,7 +96,7 @@
       1159284261,
       1947304311
     ],
-    "wof:lastmodified": 1793981646,
+    "wof:lastmodified": 1793981996,
     "wof:name": "DL8841 (SFO-DEN)",
     "wof:parent_id": 1947304311,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048774529,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-05",
+    "date:cessation_upper": "2026-11-05",
     "date:inception_lower": "2026-11-05",
     "date:inception_upper": "2026-11-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-05",
+    "edtf:cessation": "2026-11-05T23:32:07Z",
+    "edtf:inception": "2026-11-05T22:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144021039"
+    },
     "wof:country": "US",
     "wof:created": 1793981048,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -94,7 +102,7 @@
       1947304275,
       1159284021
     ],
-    "wof:lastmodified": 1793981048,
+    "wof:lastmodified": 1793981954,
     "wof:name": "AS201 (LAX-SFO)",
     "wof:parent_id": 1947304275,
     "wof:placetype": "custom",

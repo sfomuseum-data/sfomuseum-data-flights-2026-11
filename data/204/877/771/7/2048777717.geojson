@@ -2,10 +2,12 @@
   "id": 2048777717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-05",
+    "date:cessation_upper": "2026-11-05",
     "date:inception_lower": "2026-11-05",
     "date:inception_upper": "2026-11-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-05",
+    "edtf:cessation": "2026-11-05T18:20:42Z",
+    "edtf:inception": "2026-11-05T16:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-11-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AA",
+    "icao:aircraft": "A320",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N657AW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143988188"
+    },
     "wof:country": "US",
     "wof:created": 1793981421,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -86,9 +98,10 @@
       102526751,
       102527513,
       1159283849,
-      1947304317
+      1947304317,
+      1159292085
     ],
-    "wof:lastmodified": 1793981421,
+    "wof:lastmodified": 1793981984,
     "wof:name": "AA2411 (SFO-PHX)",
     "wof:parent_id": 1947304317,
     "wof:placetype": "custom",

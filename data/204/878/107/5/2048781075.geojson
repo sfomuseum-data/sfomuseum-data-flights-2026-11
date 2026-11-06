@@ -2,10 +2,12 @@
   "id": 2048781075,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-05",
+    "date:cessation_upper": "2026-11-05",
     "date:inception_lower": "2026-11-05",
     "date:inception_upper": "2026-11-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-05",
+    "edtf:cessation": "2026-11-05T21:33:01Z",
+    "edtf:inception": "2026-11-05T20:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20261105-D-CCA-7322",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N67827",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144009858"
+    },
     "wof:country": "US",
     "wof:created": 1793981814,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048781075,
     "wof:involves": [
+      1377564285,
       102533795,
       102527513,
       1159285413,
       1947304525,
       1159283605
     ],
-    "wof:lastmodified": 1793981814,
+    "wof:lastmodified": 1793982023,
     "wof:name": "UA1822 (SFO-LAX)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

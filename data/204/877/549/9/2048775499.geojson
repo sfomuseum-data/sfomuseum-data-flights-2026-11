@@ -2,10 +2,12 @@
   "id": 2048775499,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-05",
+    "date:cessation_upper": "2026-11-05",
     "date:inception_lower": "2026-11-05",
     "date:inception_upper": "2026-11-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-05",
+    "edtf:cessation": "2026-11-05T10:35:59Z",
+    "edtf:inception": "2026-11-05T09:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "BR",
     "flysfo:date": "2026-11-05",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "143965373"
+    },
     "wof:country": "US",
     "wof:created": 1793981163,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -51,7 +59,7 @@
       1159284349,
       -1
     ],
-    "wof:lastmodified": 1793981163,
+    "wof:lastmodified": 1793981964,
     "wof:name": "BR629 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

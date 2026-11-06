@@ -2,10 +2,12 @@
   "id": 2048775877,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-05",
+    "date:cessation_upper": "2026-11-05",
     "date:inception_lower": "2026-11-05",
     "date:inception_upper": "2026-11-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-05",
+    "edtf:cessation": "2026-11-05T06:41:53-08:00",
+    "edtf:inception": "2026-11-05T21:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2026-11-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.918857,
     "geom:longitude": -117.0466615,
     "iata:airline": "MX",
+    "icao:aircraft": "BCS3",
     "icao:airline": "MXY",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1763552131,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532277,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N266BZ",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144014425"
+    },
     "wof:country": "US",
     "wof:created": 1793981207,
     "wof:geomhash": "d887ded7dd7ecdf1f3f44081817da1ef",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048775877,
     "wof:involves": [
-      102527513,
-      102532277,
       1763552131,
-      1947304673
+      1947304673,
+      1813375783,
+      102527513,
+      102532277
     ],
-    "wof:lastmodified": 1793981207,
+    "wof:lastmodified": 1793981968,
     "wof:name": "MX1066 (PVU-SFO)",
     "wof:parent_id": 1947304673,
     "wof:placetype": "custom",

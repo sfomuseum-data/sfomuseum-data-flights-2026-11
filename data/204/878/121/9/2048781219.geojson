@@ -2,10 +2,12 @@
   "id": 2048781219,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-05",
+    "date:cessation_upper": "2026-11-05",
     "date:inception_lower": "2026-11-05",
     "date:inception_upper": "2026-11-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-05",
+    "edtf:cessation": "2026-11-05T20:02:06Z",
+    "edtf:inception": "2026-11-05T18:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.9389005,
     "geom:longitude": -121.76404,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530507,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N889UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143998638"
+    },
     "wof:country": "US",
     "wof:created": 1793981831,
     "wof:geomhash": "398b6cf59cf3bdf390f5834c7a336099",
@@ -86,9 +98,10 @@
       102530507,
       102527513,
       1159285413,
-      1947304613
+      1947304613,
+      1159289407
     ],
-    "wof:lastmodified": 1793981831,
+    "wof:lastmodified": 1793982025,
     "wof:name": "UA2449 (SFO-RDM)",
     "wof:parent_id": 1947304613,
     "wof:placetype": "custom",

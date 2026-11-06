@@ -2,10 +2,12 @@
   "id": 2048781063,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-05",
-    "date:inception_upper": "2026-11-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-05",
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
+    "date:inception_lower": "2026-11-06",
+    "date:inception_upper": "2026-11-06",
+    "edtf:cessation": "2026-11-06T04:05:35Z",
+    "edtf:inception": "2026-11-06T03:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.838961999999995,
     "geom:longitude": -119.97934599999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533575,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N472UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143954936"
+    },
     "wof:country": "US",
     "wof:created": 1793981813,
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048781063,
     "wof:involves": [
-      102533575,
       102527513,
       1159285413,
-      1947304619
+      1947304619,
+      1159292085,
+      102533575
     ],
-    "wof:lastmodified": 1793981813,
+    "wof:lastmodified": 1793982023,
     "wof:name": "UA1780 (SFO-ONT)",
     "wof:parent_id": 1947304619,
     "wof:placetype": "custom",

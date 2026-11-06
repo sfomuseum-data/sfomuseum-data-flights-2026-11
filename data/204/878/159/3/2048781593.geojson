@@ -2,10 +2,12 @@
   "id": 2048781593,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-05",
     "date:inception_upper": "2026-11-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-05",
+    "edtf:cessation": "2026-11-06T05:32:35Z",
+    "edtf:inception": "2026-11-05T19:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144000059"
+    },
     "wof:country": "US",
     "wof:created": 1793981873,
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
@@ -94,7 +102,7 @@
       1947304149,
       1159283875
     ],
-    "wof:lastmodified": 1793981873,
+    "wof:lastmodified": 1793982027,
     "wof:name": "UA837 (SFO-NRT)",
     "wof:parent_id": 1947304149,
     "wof:placetype": "custom",

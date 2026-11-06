@@ -2,10 +2,12 @@
   "id": 2048776517,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-05",
+    "date:cessation_upper": "2026-11-05",
     "date:inception_lower": "2026-11-05",
     "date:inception_upper": "2026-11-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-05",
+    "edtf:cessation": "2026-11-05T01:37:34Z",
+    "edtf:inception": "2026-11-05T00:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "143948197"
+    },
     "wof:country": "US",
     "wof:created": 1793981281,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -94,7 +99,7 @@
       1947304453,
       1159285749
     ],
-    "wof:lastmodified": 1793981281,
+    "wof:lastmodified": 1793981975,
     "wof:name": "UA1363 (LAX-SFO)",
     "wof:parent_id": 1947304453,
     "wof:placetype": "custom",
