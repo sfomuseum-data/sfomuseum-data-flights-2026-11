@@ -2,10 +2,12 @@
   "id": 2048785859,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-06",
-    "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
+    "date:inception_lower": "2026-11-07",
+    "date:inception_upper": "2026-11-07",
+    "edtf:cessation": "2026-11-07T08:44:00Z",
+    "edtf:inception": "2026-11-07T03:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144041842"
+    },
     "wof:country": "US",
     "wof:created": 1794067699,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -94,7 +102,7 @@
       1947304459,
       1159286015
     ],
-    "wof:lastmodified": 1794067699,
+    "wof:lastmodified": 1794068315,
     "wof:name": "UA367 (IAD-SFO)",
     "wof:parent_id": 1947304459,
     "wof:placetype": "custom",

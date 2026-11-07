@@ -2,10 +2,12 @@
   "id": 2048785573,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-06",
-    "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
+    "date:inception_lower": "2026-11-07",
+    "date:inception_upper": "2026-11-07",
+    "edtf:cessation": "2026-11-07T07:39:26Z",
+    "edtf:inception": "2026-11-07T04:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144042748"
+    },
     "wof:country": "US",
     "wof:created": 1794067667,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
@@ -94,7 +102,7 @@
       1947304523,
       1159284333
     ],
-    "wof:lastmodified": 1794067667,
+    "wof:lastmodified": 1794068313,
     "wof:name": "UA1609 (IAH-SFO)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

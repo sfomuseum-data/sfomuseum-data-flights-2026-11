@@ -2,10 +2,12 @@
   "id": 2048786729,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-06",
-    "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
+    "date:inception_lower": "2026-11-07",
+    "date:inception_upper": "2026-11-07",
+    "edtf:cessation": "2026-11-07T12:32:13Z",
+    "edtf:inception": "2026-11-07T07:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144046196"
+    },
     "wof:country": "US",
     "wof:created": 1794067798,
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
@@ -94,7 +102,7 @@
       1947304317,
       1159283495
     ],
-    "wof:lastmodified": 1794067798,
+    "wof:lastmodified": 1794068323,
     "wof:name": "AA1826 (SFO-PHL)",
     "wof:parent_id": 1947304317,
     "wof:placetype": "custom",

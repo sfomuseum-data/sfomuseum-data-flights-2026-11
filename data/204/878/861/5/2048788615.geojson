@@ -2,10 +2,12 @@
   "id": 2048788615,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-06",
     "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "edtf:cessation": "2026-11-06T22:12:59Z",
+    "edtf:inception": "2026-11-06T20:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-11-06",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144142410"
+    },
     "wof:country": "US",
     "wof:created": 1794068008,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -51,7 +59,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1794068008,
+    "wof:lastmodified": 1794068336,
     "wof:name": "DL9960 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

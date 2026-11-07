@@ -2,10 +2,12 @@
   "id": 2048785877,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-06",
     "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "edtf:cessation": "2026-11-06T04:07:54-08:00",
+    "edtf:inception": "2026-11-06T14:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.234314499999996,
     "geom:longitude": -99.70629299999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 1746879047,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N12125",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144124646"
+    },
     "wof:country": "US",
     "wof:created": 1794067701,
     "wof:geomhash": "cfff966b0a5de3ca50080923c4337cfe",
@@ -86,9 +98,10 @@
       102527513,
       1746879047,
       1159285413,
-      1947304453
+      1947304453,
+      1159289939
     ],
-    "wof:lastmodified": 1794067701,
+    "wof:lastmodified": 1794068315,
     "wof:name": "UA3903 (DCA-SFO)",
     "wof:parent_id": 1947304453,
     "wof:placetype": "custom",

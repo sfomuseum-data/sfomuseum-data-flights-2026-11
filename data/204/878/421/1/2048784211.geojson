@@ -2,10 +2,12 @@
   "id": 2048784211,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-06",
     "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "edtf:cessation": "2026-11-06T08:01:32-08:00",
+    "edtf:inception": "2026-11-06T22:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-11-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526751,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N655DL",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144139250"
+    },
     "wof:country": "US",
     "wof:created": 1794067511,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048784211,
     "wof:involves": [
+      1159289939,
       102527513,
       102526751,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1794067511,
+    "wof:lastmodified": 1794068302,
     "wof:name": "DL8937 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

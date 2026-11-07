@@ -2,10 +2,12 @@
   "id": 2048790157,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-06",
     "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "edtf:cessation": "2026-11-06T04:31:30Z",
+    "edtf:inception": "2026-11-06T00:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144030911"
+    },
     "wof:country": "US",
     "wof:created": 1794068180,
     "wof:geomhash": "8b4edcad4124de1c487808d2d2d1ecd3",
@@ -94,7 +99,7 @@
       1947304513,
       1159284333
     ],
-    "wof:lastmodified": 1794068180,
+    "wof:lastmodified": 1794068363,
     "wof:name": "UA2416 (SFO-MSY)",
     "wof:parent_id": 1947304513,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048788619,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-06",
     "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "edtf:cessation": "2026-11-06T17:14:08Z",
+    "edtf:inception": "2026-11-06T06:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LH",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144045131"
+    },
     "wof:country": "US",
     "wof:created": 1794068009,
     "wof:geomhash": "d9a5d9d800d6bc92413ff3768040f8da",
@@ -94,7 +102,7 @@
       1947304159,
       1159283697
     ],
-    "wof:lastmodified": 1794068009,
+    "wof:lastmodified": 1794068336,
     "wof:name": "LH459 (SFO-MUC)",
     "wof:parent_id": 1947304159,
     "wof:placetype": "custom",

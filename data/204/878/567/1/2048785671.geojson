@@ -2,10 +2,12 @@
   "id": 2048785671,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-06",
     "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "edtf:cessation": "2026-11-06T09:29:01-08:00",
+    "edtf:inception": "2026-11-06T21:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.8002995,
     "geom:longitude": -106.31638749999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530009,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N852UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144099187"
+    },
     "wof:country": "US",
     "wof:created": 1794067678,
     "wof:geomhash": "a7e835886f555fd347028edc152f9d8c",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048785671,
     "wof:involves": [
-      102527513,
       102530009,
       1159285413,
-      1947304609
+      1947304609,
+      1159289407,
+      102527513
     ],
-    "wof:lastmodified": 1794067678,
+    "wof:lastmodified": 1794068313,
     "wof:name": "UA2041 (MSY-SFO)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

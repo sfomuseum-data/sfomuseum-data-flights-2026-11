@@ -2,10 +2,12 @@
   "id": 2048785701,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-06",
     "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "edtf:cessation": "2026-11-06T00:11:07-08:00",
+    "edtf:inception": "2026-11-06T12:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261106-A-ACA-5483",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N844UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +63,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144055701"
+    },
     "wof:country": "US",
     "wof:created": 1794067681,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -88,13 +101,14 @@
     ],
     "wof:id": 2048785701,
     "wof:involves": [
-      102527513,
-      102521851,
       1159285413,
       1947304621,
-      1159283597
+      1159283597,
+      1159289407,
+      102527513,
+      102521851
     ],
-    "wof:lastmodified": 1794067681,
+    "wof:lastmodified": 1794068314,
     "wof:name": "UA2177 (AUS-SFO)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",

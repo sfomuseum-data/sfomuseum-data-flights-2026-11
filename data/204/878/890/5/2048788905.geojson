@@ -2,10 +2,12 @@
   "id": 2048788905,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-06",
     "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "edtf:cessation": "2026-11-06T19:19:16Z",
+    "edtf:inception": "2026-11-06T17:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F8",
     "flysfo:date": "2026-11-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 43.40566,
     "geom:longitude": -122.7750715,
     "iata:airline": "F8",
+    "icao:aircraft": "B38M",
     "icao:airline": "FLE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1763552143,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CFLKC",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144078731"
+    },
     "wof:country": "US",
     "wof:created": 1794068041,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048788905,
     "wof:involves": [
+      1528104575,
       102555307,
       102527513,
       1763552143,
       1947304385
     ],
-    "wof:lastmodified": 1794068041,
+    "wof:lastmodified": 1794068338,
     "wof:name": "F81847 (SFO-YVR)",
     "wof:parent_id": 1947304385,
     "wof:placetype": "custom",

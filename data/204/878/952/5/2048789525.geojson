@@ -2,10 +2,12 @@
   "id": 2048789525,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-06",
-    "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
+    "date:inception_lower": "2026-11-07",
+    "date:inception_upper": "2026-11-07",
+    "edtf:cessation": "2026-11-07T06:49:16Z",
+    "edtf:inception": "2026-11-07T05:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-06",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144028747"
+    },
     "wof:country": "US",
     "wof:created": 1794068110,
     "wof:geomhash": "a08c5b1a6c329f228ec453404f254a51",
@@ -88,7 +96,7 @@
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1794068110,
+    "wof:lastmodified": 1794068351,
     "wof:name": "WN1982 (SFO-DAL)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

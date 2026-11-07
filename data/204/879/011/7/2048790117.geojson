@@ -2,10 +2,12 @@
   "id": 2048790117,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-06",
     "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "edtf:cessation": "2026-11-06T03:10:22Z",
+    "edtf:inception": "2026-11-06T01:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144029595"
+    },
     "wof:country": "US",
     "wof:created": 1794068175,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -94,7 +99,7 @@
       1947304607,
       1159283697
     ],
-    "wof:lastmodified": 1794068175,
+    "wof:lastmodified": 1794068362,
     "wof:name": "UA2279 (SFO-SEA)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

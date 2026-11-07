@@ -2,10 +2,12 @@
   "id": 2048789577,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-06",
-    "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
+    "date:inception_lower": "2026-11-07",
+    "date:inception_upper": "2026-11-07",
+    "edtf:cessation": "2026-11-07T11:59:23Z",
+    "edtf:inception": "2026-11-07T08:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-06",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144048012"
+    },
     "wof:country": "US",
     "wof:created": 1794068116,
     "wof:geomhash": "b0d868dab19a217943f06d97e1bf7ce6",
@@ -88,7 +96,7 @@
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1794068116,
+    "wof:lastmodified": 1794068352,
     "wof:name": "WN3849 (SFO-MDW)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

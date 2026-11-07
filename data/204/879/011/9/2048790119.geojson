@@ -2,10 +2,12 @@
   "id": 2048790119,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-06",
     "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "edtf:cessation": "2026-11-06T14:14:44Z",
+    "edtf:inception": "2026-11-06T08:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-06",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -48,6 +53,9 @@
       1914600841,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144047758"
+    },
     "wof:country": "US",
     "wof:created": 1794068176,
     "wof:geomhash": "05151bbebc72a691ecf3d87519f35adc",
@@ -88,7 +96,7 @@
       1159285413,
       1930457221
     ],
-    "wof:lastmodified": 1794068176,
+    "wof:lastmodified": 1794068362,
     "wof:name": "UA2312 (SFO-SJO)",
     "wof:parent_id": 1930457221,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048790223,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-06",
-    "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
+    "date:inception_lower": "2026-11-07",
+    "date:inception_upper": "2026-11-07",
+    "edtf:cessation": "2026-11-07T09:58:31Z",
+    "edtf:inception": "2026-11-07T05:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-06",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144045358"
+    },
     "wof:country": "US",
     "wof:created": 1794068187,
     "wof:geomhash": "b3e3651b522d461c555c2feff400782a",
@@ -88,7 +96,7 @@
       1159285413,
       1947304525
     ],
-    "wof:lastmodified": 1794068187,
+    "wof:lastmodified": 1794068364,
     "wof:name": "UA2860 (SFO-CMH)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

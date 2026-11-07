@@ -2,10 +2,12 @@
   "id": 2048787317,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-06",
+    "date:cessation_upper": "2026-11-06",
     "date:inception_lower": "2026-11-06",
     "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "edtf:cessation": "2026-11-06T21:41:40Z",
+    "edtf:inception": "2026-11-06T16:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144073990"
+    },
     "wof:country": "US",
     "wof:created": 1794067864,
     "wof:geomhash": "60b8ec845b4af47518c8aaafc3d98633",
@@ -94,7 +102,7 @@
       1947304603,
       1159283697
     ],
-    "wof:lastmodified": 1794067864,
+    "wof:lastmodified": 1794068326,
     "wof:name": "AC756 (SFO-YUL)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048790099,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-06",
-    "date:inception_upper": "2026-11-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-06",
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
+    "date:inception_lower": "2026-11-07",
+    "date:inception_upper": "2026-11-07",
+    "edtf:cessation": "2026-11-07T03:58:21Z",
+    "edtf:inception": "2026-11-07T00:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144057845"
+    },
     "wof:country": "US",
     "wof:created": 1794068173,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -94,7 +102,7 @@
       1947304517,
       1159283697
     ],
-    "wof:lastmodified": 1794068173,
+    "wof:lastmodified": 1794068362,
     "wof:name": "UA2168 (SFO-IAH)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",
