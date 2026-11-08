@@ -2,10 +2,12 @@
   "id": 2048794145,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T20:59:49Z",
+    "edtf:inception": "2026-11-07T15:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144148904"
+    },
     "wof:country": "US",
     "wof:created": 1794154041,
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
@@ -94,7 +102,7 @@
       1947304525,
       1763699293
     ],
-    "wof:lastmodified": 1794154041,
+    "wof:lastmodified": 1794154615,
     "wof:name": "UA1506 (MIA-SFO)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

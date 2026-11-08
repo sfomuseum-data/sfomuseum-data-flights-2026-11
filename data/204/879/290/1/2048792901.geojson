@@ -2,10 +2,12 @@
   "id": 2048792901,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T20:29:51Z",
+    "edtf:inception": "2026-11-07T17:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144158591"
+    },
     "wof:country": "US",
     "wof:created": 1794153900,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -94,7 +102,7 @@
       1763588251,
       1159285523
     ],
-    "wof:lastmodified": 1794153900,
+    "wof:lastmodified": 1794154606,
     "wof:name": "DL2074 (MSP-SFO)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

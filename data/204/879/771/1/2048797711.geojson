@@ -2,10 +2,12 @@
   "id": 2048797711,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T17:33:10Z",
+    "edtf:inception": "2026-11-07T16:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-07",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144150644"
+    },
     "wof:country": "US",
     "wof:created": 1794154437,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -88,7 +96,7 @@
       1159285591,
       1947304621
     ],
-    "wof:lastmodified": 1794154437,
+    "wof:lastmodified": 1794154648,
     "wof:name": "WN1121 (SFO-LAX)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",

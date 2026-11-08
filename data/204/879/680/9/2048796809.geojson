@@ -2,10 +2,12 @@
   "id": 2048796809,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T16:15:47Z",
+    "edtf:inception": "2026-11-07T15:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144151789"
+    },
     "wof:country": "US",
     "wof:created": 1794154337,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -94,7 +102,7 @@
       1947304677,
       1159283539
     ],
-    "wof:lastmodified": 1794154337,
+    "wof:lastmodified": 1794154641,
     "wof:name": "DL1598 (SFO-LAX)",
     "wof:parent_id": 1947304677,
     "wof:placetype": "custom",

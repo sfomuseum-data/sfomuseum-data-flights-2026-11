@@ -2,10 +2,12 @@
   "id": 2048798621,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-07",
-    "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "date:cessation_lower": "2026-11-08",
+    "date:cessation_upper": "2026-11-08",
+    "date:inception_lower": "2026-11-08",
+    "date:inception_upper": "2026-11-08",
+    "edtf:cessation": "2026-11-08T13:48:40Z",
+    "edtf:inception": "2026-11-08T03:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144128318"
+    },
     "wof:country": "US",
     "wof:created": 1794154537,
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
@@ -94,7 +102,7 @@
       1947304159,
       1159283597
     ],
-    "wof:lastmodified": 1794154537,
+    "wof:lastmodified": 1794154655,
     "wof:name": "UA926 (SFO-FRA)",
     "wof:parent_id": 1947304159,
     "wof:placetype": "custom",

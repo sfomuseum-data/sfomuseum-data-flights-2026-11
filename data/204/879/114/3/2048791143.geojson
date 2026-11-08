@@ -2,10 +2,12 @@
   "id": 2048791143,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T20:25:23Z",
+    "edtf:inception": "2026-11-07T15:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-11-07",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144149475"
+    },
     "wof:country": "US",
     "wof:created": 1794153683,
     "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
@@ -88,7 +96,7 @@
       1159283849,
       1947304309
     ],
-    "wof:lastmodified": 1794153683,
+    "wof:lastmodified": 1794154595,
     "wof:name": "AA2651 (CLT-SFO)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",

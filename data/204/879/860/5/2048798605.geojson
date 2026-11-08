@@ -2,10 +2,12 @@
   "id": 2048798605,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-08",
+    "date:cessation_upper": "2026-11-08",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-08T08:13:32Z",
+    "edtf:inception": "2026-11-07T19:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144171999"
+    },
     "wof:country": "US",
     "wof:created": 1794154536,
     "wof:geomhash": "8a4a8d08e2e66037bce440d01d4bc21e",
@@ -94,7 +102,7 @@
       1947304137,
       1159283605
     ],
-    "wof:lastmodified": 1794154536,
+    "wof:lastmodified": 1794154655,
     "wof:name": "UA888 (SFO-PEK)",
     "wof:parent_id": 1947304137,
     "wof:placetype": "custom",

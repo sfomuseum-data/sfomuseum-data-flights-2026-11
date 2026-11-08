@@ -2,10 +2,12 @@
   "id": 2048795213,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T22:06:09Z",
+    "edtf:inception": "2026-11-07T17:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144160468"
+    },
     "wof:country": "US",
     "wof:created": 1794154161,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -94,7 +102,7 @@
       1947304277,
       1159284021
     ],
-    "wof:lastmodified": 1794154161,
+    "wof:lastmodified": 1794154626,
     "wof:name": "AA3236 (SFO-MIA)",
     "wof:parent_id": 1947304277,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048798369,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T20:25:26Z",
+    "edtf:inception": "2026-11-07T15:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144156049"
+    },
     "wof:country": "US",
     "wof:created": 1794154510,
     "wof:geomhash": "739cf7062aa24bbf1662c0bae366af8d",
@@ -94,7 +102,7 @@
       1947304619,
       1159283697
     ],
-    "wof:lastmodified": 1794154510,
+    "wof:lastmodified": 1794154653,
     "wof:name": "UA481 (SFO-RDU)",
     "wof:parent_id": 1947304619,
     "wof:placetype": "custom",

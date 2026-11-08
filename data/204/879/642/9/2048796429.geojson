@@ -2,10 +2,12 @@
   "id": 2048796429,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T21:15:35Z",
+    "edtf:inception": "2026-11-07T19:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144176650"
+    },
     "wof:country": "US",
     "wof:created": 1794154295,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -94,7 +102,7 @@
       1947304267,
       1159284127
     ],
-    "wof:lastmodified": 1794154295,
+    "wof:lastmodified": 1794154637,
     "wof:name": "AS656 (SFO-SEA)",
     "wof:parent_id": 1947304267,
     "wof:placetype": "custom",

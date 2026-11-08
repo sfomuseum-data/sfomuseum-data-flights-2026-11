@@ -2,10 +2,12 @@
   "id": 2048794301,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T18:23:18Z",
+    "edtf:inception": "2026-11-07T13:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144143594"
+    },
     "wof:country": "US",
     "wof:created": 1794154059,
     "wof:geomhash": "10c01f207ef95eecc919066d165ec5eb",
@@ -94,7 +102,7 @@
       1947304481,
       1159283697
     ],
-    "wof:lastmodified": 1794154059,
+    "wof:lastmodified": 1794154617,
     "wof:name": "UA230 (BWI-SFO)",
     "wof:parent_id": 1947304481,
     "wof:placetype": "custom",

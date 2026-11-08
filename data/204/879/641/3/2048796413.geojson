@@ -2,10 +2,12 @@
   "id": 2048796413,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T20:20:21Z",
+    "edtf:inception": "2026-11-07T18:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144171613"
+    },
     "wof:country": "US",
     "wof:created": 1794154294,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -94,7 +102,7 @@
       1947304275,
       1159284127
     ],
-    "wof:lastmodified": 1794154294,
+    "wof:lastmodified": 1794154637,
     "wof:name": "AS580 (SFO-SEA)",
     "wof:parent_id": 1947304275,
     "wof:placetype": "custom",

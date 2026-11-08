@@ -2,10 +2,12 @@
   "id": 2048791145,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T09:56:18-08:00",
+    "edtf:inception": "2026-11-07T21:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "CSN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261107-A-CSN-1646",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N934AA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144177945"
+    },
     "wof:country": "US",
     "wof:created": 1794153683,
     "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
@@ -92,9 +104,10 @@
       102528659,
       1159283849,
       1947304317,
-      1159284165
+      1159284165,
+      1159289411
     ],
-    "wof:lastmodified": 1794153683,
+    "wof:lastmodified": 1794154595,
     "wof:name": "AA2569 (CLT-SFO)",
     "wof:parent_id": 1947304317,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048791141,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T18:33:08Z",
+    "edtf:inception": "2026-11-07T13:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-11-07",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144144445"
+    },
     "wof:country": "US",
     "wof:created": 1794153682,
     "wof:geomhash": "70ecaf1bff2da3af9ba52c9bde5534af",
@@ -88,7 +96,7 @@
       1159283849,
       1947304317
     ],
-    "wof:lastmodified": 1794153682,
+    "wof:lastmodified": 1794154595,
     "wof:name": "AA2407 (PHL-SFO)",
     "wof:parent_id": 1947304317,
     "wof:placetype": "custom",

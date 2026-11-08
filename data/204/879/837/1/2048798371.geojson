@@ -2,10 +2,12 @@
   "id": 2048798371,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T17:09:19Z",
+    "edtf:inception": "2026-11-07T15:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144154135"
+    },
     "wof:country": "US",
     "wof:created": 1794154510,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -94,7 +102,7 @@
       1947304623,
       1159283697
     ],
-    "wof:lastmodified": 1794154510,
+    "wof:lastmodified": 1794154653,
     "wof:name": "UA494 (SFO-SEA)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

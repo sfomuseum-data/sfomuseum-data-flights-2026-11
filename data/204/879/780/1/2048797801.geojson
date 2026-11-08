@@ -2,10 +2,12 @@
   "id": 2048797801,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-07",
-    "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "date:cessation_lower": "2026-11-08",
+    "date:cessation_upper": "2026-11-08",
+    "date:inception_lower": "2026-11-08",
+    "date:inception_upper": "2026-11-08",
+    "edtf:cessation": "2026-11-08T14:37:59Z",
+    "edtf:inception": "2026-11-08T04:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LX",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144128897"
+    },
     "wof:country": "US",
     "wof:created": 1794154447,
     "wof:geomhash": "75c5706ba72cddd7f95f840531183522",
@@ -94,7 +102,7 @@
       1947304153,
       1159285413
     ],
-    "wof:lastmodified": 1794154447,
+    "wof:lastmodified": 1794154649,
     "wof:name": "LX39 (SFO-ZRH)",
     "wof:parent_id": 1947304153,
     "wof:placetype": "custom",

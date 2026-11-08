@@ -2,10 +2,12 @@
   "id": 2048794673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T11:36:09-08:00",
+    "edtf:inception": "2026-11-07T22:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-07",
@@ -21,9 +23,11 @@
     "geom:latitude": 32.795441,
     "geom:longitude": -102.4509355,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533243,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37548",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144187814"
+    },
     "wof:country": "US",
     "wof:created": 1794154101,
     "wof:geomhash": "e5ae5d1ea61206da1f1e1104d6bc1bb7",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048794673,
     "wof:involves": [
+      1528104577,
       102527513,
       102533243,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1794154101,
+    "wof:lastmodified": 1794154619,
     "wof:name": "UA8247 (TPA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

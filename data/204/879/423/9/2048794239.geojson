@@ -2,10 +2,12 @@
   "id": 2048794239,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T18:17:09Z",
+    "edtf:inception": "2026-11-07T14:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144147544"
+    },
     "wof:country": "US",
     "wof:created": 1794154052,
     "wof:geomhash": "a7e835886f555fd347028edc152f9d8c",
@@ -94,7 +102,7 @@
       1947304517,
       1159284333
     ],
-    "wof:lastmodified": 1794154052,
+    "wof:lastmodified": 1794154616,
     "wof:name": "UA1973 (MSY-SFO)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",

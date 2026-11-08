@@ -2,10 +2,12 @@
   "id": 2048791661,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T18:53:00Z",
+    "edtf:inception": "2026-11-07T14:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144144937"
+    },
     "wof:country": "US",
     "wof:created": 1794153757,
     "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
@@ -94,7 +102,7 @@
       1947304667,
       1159283697
     ],
-    "wof:lastmodified": 1794153757,
+    "wof:lastmodified": 1794154599,
     "wof:name": "AC739 (YYZ-SFO)",
     "wof:parent_id": 1947304667,
     "wof:placetype": "custom",

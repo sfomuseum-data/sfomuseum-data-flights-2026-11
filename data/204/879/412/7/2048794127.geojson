@@ -2,10 +2,12 @@
   "id": 2048794127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T19:16:58Z",
+    "edtf:inception": "2026-11-07T17:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144163051"
+    },
     "wof:country": "US",
     "wof:created": 1794154040,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -94,7 +102,7 @@
       1947304513,
       1763699293
     ],
-    "wof:lastmodified": 1794154040,
+    "wof:lastmodified": 1794154615,
     "wof:name": "UA1372 (SEA-SFO)",
     "wof:parent_id": 1947304513,
     "wof:placetype": "custom",

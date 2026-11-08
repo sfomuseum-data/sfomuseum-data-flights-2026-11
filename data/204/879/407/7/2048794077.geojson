@@ -2,10 +2,12 @@
   "id": 2048794077,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-07",
+    "date:cessation_upper": "2026-11-07",
     "date:inception_lower": "2026-11-07",
     "date:inception_upper": "2026-11-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-07",
+    "edtf:cessation": "2026-11-07T18:37:01Z",
+    "edtf:inception": "2026-11-07T13:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144144496"
+    },
     "wof:country": "US",
     "wof:created": 1794154034,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -94,7 +102,7 @@
       1947304489,
       1159284325
     ],
-    "wof:lastmodified": 1794154034,
+    "wof:lastmodified": 1794154615,
     "wof:name": "UA1147 (IAD-SFO)",
     "wof:parent_id": 1947304489,
     "wof:placetype": "custom",
