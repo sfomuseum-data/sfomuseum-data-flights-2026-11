@@ -1,0 +1,109 @@
+{
+  "id": 2048807215,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-08",
+    "date:inception_upper": "2026-11-08",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-08",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-11-08",
+    "flysfo:estimated_timestamp": 1794179040,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA3870",
+    "flysfo:gate": "E6",
+    "flysfo:journey": "SFO-IAB",
+    "flysfo:scheduled_timestamp": 1794179700,
+    "flysfo:timestamp": 1794179700,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-97.264318,37.629409",
+    "geom:latitude": 37.6236995,
+    "geom:longitude": -109.8176305,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.618774,
+    "lbl:longitude": -122.384852,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527175,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261108-D-UAL-3870",
+    "sfomuseum:flight_number": [
+      "UAL3870",
+      "UA3870"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304511,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304513,
+      1947304447,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1794241005,
+    "wof:geomhash": "65158a3e2138a8eb3a34304e9b8ba1d9",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304511,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2048807215,
+        "flight_id": 2048807215,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304513,
+        "wing_id": 1947304447
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304511,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2048807215,
+        "flight_id": 2048807215,
+        "region_id": 85688637,
+        "venue_id": 1947304513,
+        "wing_id": 1947304447
+      }
+    ],
+    "wof:id": 2048807215,
+    "wof:involves": [
+      102527175,
+      102527513,
+      1159285413,
+      1947304513
+    ],
+    "wof:lastmodified": 1794241005,
+    "wof:name": "UA3870 (SFO-IAB)",
+    "wof:parent_id": 1947304513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -97.264318,
+    37.629409
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-97.264318,37.629409]]}
+}

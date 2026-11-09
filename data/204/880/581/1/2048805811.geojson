@@ -1,0 +1,109 @@
+{
+  "id": 2048805811,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-08",
+    "date:inception_upper": "2026-11-08",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-08",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "LY",
+    "flysfo:date": "2026-11-08",
+    "flysfo:estimated_timestamp": 1794175200,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "LY48",
+    "flysfo:gate": "A2",
+    "flysfo:journey": "SFO-TLV",
+    "flysfo:scheduled_timestamp": 1794175200,
+    "flysfo:timestamp": 1794175200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.005595,34.877214,37.617990",
+    "geom:latitude": 34.811792499999996,
+    "geom:longitude": -43.7468645,
+    "iata:airline": "LY",
+    "icao:airline": "ELY",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284327,
+    "sfomuseum:arrival_id": 102542687,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261108-D-ELY-48",
+    "sfomuseum:flight_number": [
+      "ELY48",
+      "LY48"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304073,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304075,
+      1947304069,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1794240849,
+    "wof:geomhash": "1b9d916c097bbded3c8620fa2d25ceca",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 2048805811,
+        "flight_id": 2048805811,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304075,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 2048805811,
+        "flight_id": 2048805811,
+        "region_id": 85688637,
+        "venue_id": 1947304075,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 2048805811,
+    "wof:involves": [
+      102542687,
+      102527513,
+      1159284327,
+      1947304075
+    ],
+    "wof:lastmodified": 1794240849,
+    "wof:name": "LY48 (SFO-TLV)",
+    "wof:parent_id": 1947304075,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    32.005595,
+    34.877214,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[34.877214,32.005595]]}
+}

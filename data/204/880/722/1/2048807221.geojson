@@ -1,0 +1,72 @@
+{
+  "id": 2048807221,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-08",
+    "date:inception_upper": "2026-11-08",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-08",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-11-08",
+    "flysfo:estimated_timestamp": 1794150000,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA3879",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-PNS",
+    "flysfo:scheduled_timestamp": 1794150000,
+    "flysfo:timestamp": 1794150000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,30.486746,-87.184998,37.617990",
+    "geom:latitude": 34.052368,
+    "geom:longitude": -104.7779705,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102529397,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261108-D-UAL-3879",
+    "sfomuseum:flight_number": [
+      "UAL3879",
+      "UA3879"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1794241006,
+    "wof:geomhash": "ef2918ce20b8be929fc0d916d0edf585",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048807221,
+        "flight_id": 2048807221
+      }
+    ],
+    "wof:id": 2048807221,
+    "wof:involves": [
+      102529397,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1794241006,
+    "wof:name": "UA3879 (SFO-PNS)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    30.486746,
+    -87.184998,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-87.184998,30.486746]]}
+}
