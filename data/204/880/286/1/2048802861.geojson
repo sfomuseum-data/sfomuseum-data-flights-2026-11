@@ -2,10 +2,12 @@
   "id": 2048802861,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-08",
-    "date:inception_upper": "2026-11-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-08",
+    "date:cessation_lower": "2026-11-08",
+    "date:cessation_upper": "2026-11-08",
+    "date:inception_lower": "2026-11-09",
+    "date:inception_upper": "2026-11-09",
+    "edtf:cessation": "2026-11-08T13:58:53-08:00",
+    "edtf:inception": "2026-11-09T04:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527209,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2135U",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144199476"
+    },
     "wof:country": "US",
     "wof:created": 1794240518,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048802861,
     "wof:involves": [
-      102527513,
       102527209,
       1159285413,
-      -1
+      1159289993,
+      102527513
     ],
-    "wof:lastmodified": 1794240518,
+    "wof:lastmodified": 1794241134,
     "wof:name": "UA3772 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

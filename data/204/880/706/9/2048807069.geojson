@@ -2,10 +2,12 @@
   "id": 2048807069,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-09",
+    "date:cessation_upper": "2026-11-09",
     "date:inception_lower": "2026-11-08",
     "date:inception_upper": "2026-11-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-08",
+    "edtf:cessation": "2026-11-09T04:21:33Z",
+    "edtf:inception": "2026-11-08T23:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144267285"
+    },
     "wof:country": "US",
     "wof:created": 1794240988,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -94,7 +102,7 @@
       1947304531,
       1159283697
     ],
-    "wof:lastmodified": 1794240988,
+    "wof:lastmodified": 1794241173,
     "wof:name": "UA2225 (SFO-EWR)",
     "wof:parent_id": 1947304531,
     "wof:placetype": "custom",

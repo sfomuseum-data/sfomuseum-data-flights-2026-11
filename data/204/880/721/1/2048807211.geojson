@@ -2,10 +2,12 @@
   "id": 2048807211,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-08",
+    "date:cessation_upper": "2026-11-08",
     "date:inception_lower": "2026-11-08",
     "date:inception_upper": "2026-11-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-08",
+    "edtf:cessation": "2026-11-08T21:07:35Z",
+    "edtf:inception": "2026-11-08T17:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 34.052368,
     "geom:longitude": -104.7779705,
     "iata:airline": "UA",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102529397,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N78866",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144285566"
+    },
     "wof:country": "US",
     "wof:created": 1794241005,
     "wof:geomhash": "ef2918ce20b8be929fc0d916d0edf585",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048807211,
     "wof:involves": [
+      1159289945,
       102529397,
       102527513,
       1159285413,
       1947304457
     ],
-    "wof:lastmodified": 1794241005,
+    "wof:lastmodified": 1794241174,
     "wof:name": "UA3851 (SFO-PNS)",
     "wof:parent_id": 1947304457,
     "wof:placetype": "custom",

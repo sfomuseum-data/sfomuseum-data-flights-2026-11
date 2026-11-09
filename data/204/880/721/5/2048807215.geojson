@@ -2,10 +2,12 @@
   "id": 2048807215,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-09",
+    "date:cessation_upper": "2026-11-09",
     "date:inception_lower": "2026-11-08",
     "date:inception_upper": "2026-11-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-08",
+    "edtf:cessation": "2026-11-09T02:16:49Z",
+    "edtf:inception": "2026-11-08T23:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-08",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144268439"
+    },
     "wof:country": "US",
     "wof:created": 1794241005,
     "wof:geomhash": "65158a3e2138a8eb3a34304e9b8ba1d9",
@@ -88,7 +96,7 @@
       1159285413,
       1947304513
     ],
-    "wof:lastmodified": 1794241005,
+    "wof:lastmodified": 1794241174,
     "wof:name": "UA3870 (SFO-IAB)",
     "wof:parent_id": 1947304513,
     "wof:placetype": "custom",

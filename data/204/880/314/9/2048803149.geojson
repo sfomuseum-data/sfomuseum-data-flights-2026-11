@@ -2,10 +2,12 @@
   "id": 2048803149,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-08",
+    "date:cessation_upper": "2026-11-08",
     "date:inception_lower": "2026-11-08",
     "date:inception_upper": "2026-11-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-08",
+    "edtf:cessation": "2026-11-08T04:02:15-08:00",
+    "edtf:inception": "2026-11-08T16:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.797588,
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534097,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N769UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144232788"
+    },
     "wof:country": "US",
     "wof:created": 1794240552,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048803149,
     "wof:involves": [
-      102527513,
       102534097,
       1159285413,
-      -1
+      1159289985,
+      102527513
     ],
-    "wof:lastmodified": 1794240552,
+    "wof:lastmodified": 1794241136,
     "wof:name": "UA8158 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

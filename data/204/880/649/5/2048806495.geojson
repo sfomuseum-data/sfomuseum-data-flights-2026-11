@@ -2,10 +2,12 @@
   "id": 2048806495,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-09",
+    "date:cessation_upper": "2026-11-09",
     "date:inception_lower": "2026-11-08",
     "date:inception_upper": "2026-11-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-08",
+    "edtf:cessation": "2026-11-09T00:45:47Z",
+    "edtf:inception": "2026-11-08T20:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-08",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144253361"
+    },
     "wof:country": "US",
     "wof:created": 1794240926,
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
@@ -88,7 +96,7 @@
       1159285591,
       1947304621
     ],
-    "wof:lastmodified": 1794240926,
+    "wof:lastmodified": 1794241167,
     "wof:name": "WN2500 (SFO-BNA)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",

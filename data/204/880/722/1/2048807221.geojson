@@ -2,10 +2,12 @@
   "id": 2048807221,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-08",
+    "date:cessation_upper": "2026-11-08",
     "date:inception_lower": "2026-11-08",
     "date:inception_upper": "2026-11-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-08",
+    "edtf:cessation": "2026-11-08T07:19:18Z",
+    "edtf:inception": "2026-11-08T06:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-08",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144276567"
+    },
     "wof:country": "US",
     "wof:created": 1794241006,
     "wof:geomhash": "ef2918ce20b8be929fc0d916d0edf585",
@@ -51,7 +56,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1794241006,
+    "wof:lastmodified": 1794241174,
     "wof:name": "UA3879 (SFO-PNS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

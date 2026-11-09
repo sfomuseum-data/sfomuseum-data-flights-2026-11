@@ -2,10 +2,12 @@
   "id": 2048802863,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-08",
+    "date:cessation_upper": "2026-11-08",
     "date:inception_lower": "2026-11-08",
     "date:inception_upper": "2026-11-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-08",
+    "edtf:cessation": "2026-11-08T21:54:33Z",
+    "edtf:inception": "2026-11-08T17:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-08",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144236868"
+    },
     "wof:country": "US",
     "wof:created": 1794240518,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -88,7 +96,7 @@
       1159285413,
       1947304513
     ],
-    "wof:lastmodified": 1794240518,
+    "wof:lastmodified": 1794241134,
     "wof:name": "UA3906 (HNL-SFO)",
     "wof:parent_id": 1947304513,
     "wof:placetype": "custom",

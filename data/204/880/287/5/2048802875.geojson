@@ -2,10 +2,12 @@
   "id": 2048802875,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-08",
+    "date:cessation_upper": "2026-11-08",
     "date:inception_lower": "2026-11-08",
     "date:inception_upper": "2026-11-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-08",
+    "edtf:cessation": "2026-11-08T03:57:41-08:00",
+    "edtf:inception": "2026-11-08T14:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 32.0754675,
     "geom:longitude": -102.06817749999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619425,
     "lbl:longitude": -122.384028,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533509,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37472",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144223979"
+    },
     "wof:country": "US",
     "wof:created": 1794240520,
     "wof:geomhash": "155104f8406f893c2c24589be7b12de9",
@@ -86,9 +98,10 @@
       102527513,
       102533509,
       1159285413,
-      1947304517
+      1947304517,
+      1528104577
     ],
-    "wof:lastmodified": 1794240520,
+    "wof:lastmodified": 1794241134,
     "wof:name": "UA433 (RSW-SFO)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",

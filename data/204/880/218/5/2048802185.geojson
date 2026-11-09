@@ -2,10 +2,12 @@
   "id": 2048802185,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-08",
-    "date:inception_upper": "2026-11-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-08",
+    "date:cessation_lower": "2026-11-08",
+    "date:cessation_upper": "2026-11-08",
+    "date:inception_lower": "2026-11-09",
+    "date:inception_upper": "2026-11-09",
+    "edtf:cessation": "2026-11-08T13:47:38-08:00",
+    "edtf:inception": "2026-11-09T04:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-08",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616987,
     "lbl:longitude": -122.382479,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527209,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N8546V",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144202469"
+    },
     "wof:country": "US",
     "wof:created": 1794240441,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048802185,
     "wof:involves": [
+      1159289871,
       102527513,
       102527209,
       1159285591,
       1947304625
     ],
-    "wof:lastmodified": 1794240441,
+    "wof:lastmodified": 1794241128,
     "wof:name": "WN2974 (LAS-SFO)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

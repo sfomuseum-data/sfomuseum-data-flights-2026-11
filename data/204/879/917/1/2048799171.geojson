@@ -2,10 +2,12 @@
   "id": 2048799171,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-08",
+    "date:cessation_upper": "2026-11-08",
     "date:inception_lower": "2026-11-08",
     "date:inception_upper": "2026-11-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-08",
+    "edtf:cessation": "2026-11-08T21:48:56Z",
+    "edtf:inception": "2026-11-08T16:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144232253"
+    },
     "wof:country": "US",
     "wof:created": 1794240075,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -94,7 +102,7 @@
       1947304277,
       1159285081
     ],
-    "wof:lastmodified": 1794240075,
+    "wof:lastmodified": 1794241105,
     "wof:name": "AA149 (JFK-SFO)",
     "wof:parent_id": 1947304277,
     "wof:placetype": "custom",
