@@ -2,10 +2,12 @@
   "id": 2048809027,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-09",
+    "date:cessation_upper": "2026-11-09",
     "date:inception_lower": "2026-11-09",
     "date:inception_upper": "2026-11-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-09",
+    "edtf:cessation": "2026-11-09T06:24:32-08:00",
+    "edtf:inception": "2026-11-09T21:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.0461075,
     "iata:airline": "AM",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "AMX",
     "icao:base_airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261109-A-DAL-8009",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N974AM",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144407149"
+    },
     "wof:country": "US",
     "wof:created": 1794326640,
     "wof:geomhash": "b157be63e9453882f41d2e530854b6a2",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048809027,
     "wof:involves": [
+      1528104577,
       102527513,
       102530717,
       1159283539,
       1947304081,
       1159284261
     ],
-    "wof:lastmodified": 1794326640,
+    "wof:lastmodified": 1794327575,
     "wof:name": "AM668 (FAT-SFO)",
     "wof:parent_id": 1947304081,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048811711,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-09",
+    "date:cessation_upper": "2026-11-09",
     "date:inception_lower": "2026-11-09",
     "date:inception_upper": "2026-11-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-09",
+    "edtf:cessation": "2026-11-09T14:47:58Z",
+    "edtf:inception": "2026-11-09T11:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144289927"
+    },
     "wof:country": "US",
     "wof:created": 1794326954,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
@@ -94,7 +102,7 @@
       1947304607,
       1159284333
     ],
-    "wof:lastmodified": 1794326954,
+    "wof:lastmodified": 1794327593,
     "wof:name": "UA1883 (IAH-SFO)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048812845,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
     "date:inception_lower": "2026-11-09",
     "date:inception_upper": "2026-11-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-09",
+    "edtf:cessation": "2026-11-10T04:12:26Z",
+    "edtf:inception": "2026-11-09T23:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-11-09",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144344848"
+    },
     "wof:country": "US",
     "wof:created": 1794327086,
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
@@ -88,7 +96,7 @@
       1159283849,
       1947304265
     ],
-    "wof:lastmodified": 1794327086,
+    "wof:lastmodified": 1794327604,
     "wof:name": "AA3035 (SFO-PHL)",
     "wof:parent_id": 1947304265,
     "wof:placetype": "custom",

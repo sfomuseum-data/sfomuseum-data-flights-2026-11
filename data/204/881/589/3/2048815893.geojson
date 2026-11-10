@@ -2,10 +2,12 @@
   "id": 2048815893,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-09",
+    "date:cessation_upper": "2026-11-09",
     "date:inception_lower": "2026-11-09",
     "date:inception_upper": "2026-11-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-09",
+    "edtf:cessation": "2026-11-09T22:15:10Z",
+    "edtf:inception": "2026-11-09T21:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144328932"
+    },
     "wof:country": "US",
     "wof:created": 1794327428,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -94,7 +102,7 @@
       1947304529,
       1159283597
     ],
-    "wof:lastmodified": 1794327428,
+    "wof:lastmodified": 1794327632,
     "wof:name": "UA1257 (SFO-SAN)",
     "wof:parent_id": 1947304529,
     "wof:placetype": "custom",

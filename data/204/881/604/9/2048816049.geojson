@@ -2,10 +2,12 @@
   "id": 2048816049,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
     "date:inception_lower": "2026-11-09",
     "date:inception_upper": "2026-11-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-09",
+    "edtf:cessation": "2026-11-10T09:18:56Z",
+    "edtf:inception": "2026-11-09T22:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144337496"
+    },
     "wof:country": "US",
     "wof:created": 1794327446,
     "wof:geomhash": "d9a5d9d800d6bc92413ff3768040f8da",
@@ -94,7 +102,7 @@
       1947304155,
       1159283597
     ],
-    "wof:lastmodified": 1794327446,
+    "wof:lastmodified": 1794327633,
     "wof:name": "UA194 (SFO-MUC)",
     "wof:parent_id": 1947304155,
     "wof:placetype": "custom",

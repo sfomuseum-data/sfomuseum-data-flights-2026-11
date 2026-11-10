@@ -2,10 +2,12 @@
   "id": 2048816113,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-09",
-    "date:inception_upper": "2026-11-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-09",
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
+    "date:inception_lower": "2026-11-10",
+    "date:inception_upper": "2026-11-10",
+    "edtf:cessation": "2026-11-10T03:08:12Z",
+    "edtf:inception": "2026-11-10T01:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144273477"
+    },
     "wof:country": "US",
     "wof:created": 1794327453,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -94,7 +102,7 @@
       1947304623,
       1159283697
     ],
-    "wof:lastmodified": 1794327453,
+    "wof:lastmodified": 1794327634,
     "wof:name": "UA2274 (SFO-MSP)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

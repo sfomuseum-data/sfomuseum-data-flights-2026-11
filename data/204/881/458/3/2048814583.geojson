@@ -2,10 +2,12 @@
   "id": 2048814583,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-09",
-    "date:inception_upper": "2026-11-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-09",
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
+    "date:inception_lower": "2026-11-10",
+    "date:inception_upper": "2026-11-10",
+    "edtf:cessation": "2026-11-10T03:04:19Z",
+    "edtf:inception": "2026-11-10T00:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "WJA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:base_flight_id": "20261109-D-WJA-8628",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N895DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144269468"
+    },
     "wof:country": "US",
     "wof:created": 1794327280,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -92,9 +104,10 @@
       102527513,
       1159284261,
       1763588251,
-      1159285523
+      1159285523,
+      1377564285
     ],
-    "wof:lastmodified": 1794327280,
+    "wof:lastmodified": 1794327625,
     "wof:name": "DL2159 (SFO-MSP)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048816261,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-09",
-    "date:inception_upper": "2026-11-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-09",
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
+    "date:inception_lower": "2026-11-10",
+    "date:inception_upper": "2026-11-10",
+    "edtf:cessation": "2026-11-10T07:30:52Z",
+    "edtf:inception": "2026-11-10T06:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20261109-D-ACA-4025",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144284871"
+    },
     "wof:country": "US",
     "wof:created": 1794327470,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2048816261,
     "wof:involves": [
+      1159283597,
+      1528104577,
       102527209,
       102527513,
       1159285413,
-      1947304601,
-      1159283597
+      1947304601
     ],
-    "wof:lastmodified": 1794327470,
+    "wof:lastmodified": 1794327635,
     "wof:name": "UA406 (SFO-LAS)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",

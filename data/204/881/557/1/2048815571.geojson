@@ -2,10 +2,12 @@
   "id": 2048815571,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-09",
+    "date:cessation_upper": "2026-11-09",
     "date:inception_lower": "2026-11-09",
     "date:inception_upper": "2026-11-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-09",
+    "edtf:cessation": "2026-11-09T18:14:24Z",
+    "edtf:inception": "2026-11-09T16:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-09",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.617092,
     "lbl:longitude": -122.381656,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8546V",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144307332"
+    },
     "wof:country": "US",
     "wof:created": 1794327392,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048815571,
     "wof:involves": [
-      102531189,
       102527513,
       1159285591,
-      1947304597
+      1947304597,
+      1159289871,
+      102531189
     ],
-    "wof:lastmodified": 1794327392,
+    "wof:lastmodified": 1794327631,
     "wof:name": "WN3844 (SFO-DEN)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",
