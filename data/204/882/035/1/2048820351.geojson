@@ -2,10 +2,12 @@
   "id": 2048820351,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
     "date:inception_lower": "2026-11-10",
     "date:inception_upper": "2026-11-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-10",
+    "edtf:cessation": "2026-11-10T23:11:18Z",
+    "edtf:inception": "2026-11-10T22:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144418433"
+    },
     "wof:country": "US",
     "wof:created": 1794413255,
     "wof:geomhash": "aae625247f3652ef8a50cae9f49d2791",
@@ -94,7 +102,7 @@
       1947304607,
       1159283597
     ],
-    "wof:lastmodified": 1794413255,
+    "wof:lastmodified": 1794413802,
     "wof:name": "UA2305 (SBA-SFO)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

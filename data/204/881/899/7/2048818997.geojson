@@ -2,10 +2,12 @@
   "id": 2048818997,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
     "date:inception_lower": "2026-11-10",
     "date:inception_upper": "2026-11-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-10",
+    "edtf:cessation": "2026-11-10T12:14:09-08:00",
+    "edtf:inception": "2026-11-10T22:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B763",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261110-A-AFR-6876",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N179DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144419508"
+    },
     "wof:country": "US",
     "wof:created": 1794413095,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048818997,
     "wof:involves": [
+      1159289965,
       102527513,
       102534365,
       1159284261,
       1763588251,
       1159283627
     ],
-    "wof:lastmodified": 1794413095,
+    "wof:lastmodified": 1794413793,
     "wof:name": "DL365 (JFK-SFO)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

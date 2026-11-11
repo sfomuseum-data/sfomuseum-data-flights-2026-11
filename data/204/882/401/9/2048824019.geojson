@@ -2,10 +2,12 @@
   "id": 2048824019,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
     "date:inception_lower": "2026-11-10",
     "date:inception_upper": "2026-11-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-10",
+    "edtf:cessation": "2026-11-10T20:05:34Z",
+    "edtf:inception": "2026-11-10T15:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144379982"
+    },
     "wof:country": "US",
     "wof:created": 1794413668,
     "wof:geomhash": "2155b19e54308f477f2a379762b2f6c8",
@@ -94,7 +102,7 @@
       1947304495,
       1779770723
     ],
-    "wof:lastmodified": 1794413668,
+    "wof:lastmodified": 1794413831,
     "wof:name": "UA1300 (SFO-FLL)",
     "wof:parent_id": 1947304495,
     "wof:placetype": "custom",

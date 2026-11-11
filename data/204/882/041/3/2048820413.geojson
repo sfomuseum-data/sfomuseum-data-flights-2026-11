@@ -2,10 +2,12 @@
   "id": 2048820413,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
     "date:inception_lower": "2026-11-10",
     "date:inception_upper": "2026-11-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-10",
+    "edtf:cessation": "2026-11-10T03:53:07-08:00",
+    "edtf:inception": "2026-11-10T14:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "MSR",
     "lbl:latitude": 37.621107,
     "lbl:longitude": -122.389874,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261110-A-MSR-9321",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N57863",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144377576"
+    },
     "wof:country": "US",
     "wof:created": 1794413263,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048820413,
     "wof:involves": [
-      102527513,
-      102528817,
       1159285413,
       1947304475,
-      1159284325
+      1159284325,
+      1159289945,
+      102527513,
+      102528817
     ],
-    "wof:lastmodified": 1794413263,
+    "wof:lastmodified": 1794413802,
     "wof:name": "UA271 (IAD-SFO)",
     "wof:parent_id": 1947304475,
     "wof:placetype": "custom",

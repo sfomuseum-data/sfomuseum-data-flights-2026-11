@@ -2,10 +2,12 @@
   "id": 2048817277,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
     "date:inception_lower": "2026-11-10",
     "date:inception_upper": "2026-11-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-10",
+    "edtf:cessation": "2026-11-10T07:51:23Z",
+    "edtf:inception": "2026-11-10T02:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144352888"
+    },
     "wof:country": "US",
     "wof:created": 1794412877,
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
@@ -94,7 +99,7 @@
       1947304283,
       1779770725
     ],
-    "wof:lastmodified": 1794412877,
+    "wof:lastmodified": 1794413782,
     "wof:name": "AA2757 (MIA-SFO)",
     "wof:parent_id": 1947304283,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048820675,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
     "date:inception_lower": "2026-11-10",
     "date:inception_upper": "2026-11-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-10",
+    "edtf:cessation": "2026-11-10T10:09:18Z",
+    "edtf:inception": "2026-11-10T09:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-10",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144359715"
+    },
     "wof:country": "US",
     "wof:created": 1794413293,
     "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
@@ -51,7 +56,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1794413293,
+    "wof:lastmodified": 1794413804,
     "wof:name": "UA8105 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

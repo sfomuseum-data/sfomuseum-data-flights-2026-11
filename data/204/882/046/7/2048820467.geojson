@@ -2,10 +2,12 @@
   "id": 2048820467,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
     "date:inception_lower": "2026-11-10",
     "date:inception_upper": "2026-11-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-10",
+    "edtf:cessation": "2026-11-10T03:42:33-08:00",
+    "edtf:inception": "2026-11-10T16:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.9120825,
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.616825,
     "lbl:longitude": -122.381021,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102521851,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N843UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144431344"
+    },
     "wof:country": "US",
     "wof:created": 1794413269,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048820467,
     "wof:involves": [
+      1159289407,
       102527513,
       102521851,
       1159285413,
       1947304607
     ],
-    "wof:lastmodified": 1794413269,
+    "wof:lastmodified": 1794413803,
     "wof:name": "UA3906 (AUS-SFO)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

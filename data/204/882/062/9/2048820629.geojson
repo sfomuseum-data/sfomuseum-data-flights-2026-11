@@ -2,10 +2,12 @@
   "id": 2048820629,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
     "date:inception_lower": "2026-11-10",
     "date:inception_upper": "2026-11-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-10",
+    "edtf:cessation": "2026-11-10T23:19:56Z",
+    "edtf:inception": "2026-11-10T19:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144400208"
+    },
     "wof:country": "US",
     "wof:created": 1794413288,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -94,7 +102,7 @@
       1947304455,
       1159283597
     ],
-    "wof:lastmodified": 1794413288,
+    "wof:lastmodified": 1794413804,
     "wof:name": "UA638 (ORD-SFO)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

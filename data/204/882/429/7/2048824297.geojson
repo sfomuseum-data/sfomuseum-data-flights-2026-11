@@ -2,10 +2,12 @@
   "id": 2048824297,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-11",
+    "date:cessation_upper": "2026-11-11",
     "date:inception_lower": "2026-11-10",
     "date:inception_upper": "2026-11-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-10",
+    "edtf:cessation": "2026-11-11T00:12:11Z",
+    "edtf:inception": "2026-11-10T22:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20261110-D-ANZ-9403",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N475UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144418914"
+    },
     "wof:country": "US",
     "wof:created": 1794413699,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -92,9 +104,10 @@
       102527513,
       1159285413,
       1763588337,
-      1159283697
+      1159283697,
+      1159292085
     ],
-    "wof:lastmodified": 1794413699,
+    "wof:lastmodified": 1794413834,
     "wof:name": "UA433 (SFO-SEA)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048824191,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-11",
+    "date:cessation_upper": "2026-11-11",
     "date:inception_lower": "2026-11-10",
     "date:inception_upper": "2026-11-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-10",
+    "edtf:cessation": "2026-11-11T01:01:16Z",
+    "edtf:inception": "2026-11-10T21:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144329075"
+    },
     "wof:country": "US",
     "wof:created": 1794413688,
     "wof:geomhash": "c97739d28e676f0ee62f6ec4585963c5",
@@ -94,7 +102,7 @@
       1947304525,
       1159283697
     ],
-    "wof:lastmodified": 1794413688,
+    "wof:lastmodified": 1794413832,
     "wof:name": "UA2391 (SFO-CVG)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

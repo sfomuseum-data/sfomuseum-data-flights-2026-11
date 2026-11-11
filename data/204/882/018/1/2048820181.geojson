@@ -2,10 +2,12 @@
   "id": 2048820181,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
     "date:inception_lower": "2026-11-10",
     "date:inception_upper": "2026-11-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-10",
+    "edtf:cessation": "2026-11-10T09:11:40-08:00",
+    "edtf:inception": "2026-11-10T01:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261110-A-ACA-4143",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N17336",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144346295"
+    },
     "wof:country": "US",
     "wof:created": 1794413236,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048820181,
     "wof:involves": [
+      1528104575,
       102527513,
       102527363,
       1159285413,
       1763588337,
       1159283597
     ],
-    "wof:lastmodified": 1794413236,
+    "wof:lastmodified": 1794413800,
     "wof:name": "UA1403 (SLC-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

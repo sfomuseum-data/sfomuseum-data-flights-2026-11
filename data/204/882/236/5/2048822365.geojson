@@ -2,10 +2,12 @@
   "id": 2048822365,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
     "date:inception_lower": "2026-11-10",
     "date:inception_upper": "2026-11-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-10",
+    "edtf:cessation": "2026-11-10T19:55:14Z",
+    "edtf:inception": "2026-11-10T18:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144398933"
+    },
     "wof:country": "US",
     "wof:created": 1794413483,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -94,7 +102,7 @@
       1947304313,
       1159283849
     ],
-    "wof:lastmodified": 1794413483,
+    "wof:lastmodified": 1794413813,
     "wof:name": "AS586 (SFO-SAN)",
     "wof:parent_id": 1947304313,
     "wof:placetype": "custom",

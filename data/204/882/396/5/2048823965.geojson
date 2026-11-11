@@ -2,10 +2,12 @@
   "id": 2048823965,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-10",
+    "date:cessation_upper": "2026-11-10",
     "date:inception_lower": "2026-11-10",
     "date:inception_upper": "2026-11-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-10",
+    "edtf:cessation": "2026-11-10T19:21:06Z",
+    "edtf:inception": "2026-11-10T18:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20261110-D-AVA-2011",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144397632"
+    },
     "wof:country": "US",
     "wof:created": 1794413661,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2048823965,
     "wof:involves": [
-      102533795,
       102527513,
       1159285413,
       1947304527,
-      1159285749
+      1159285749,
+      1528104577,
+      102533795
     ],
-    "wof:lastmodified": 1794413661,
+    "wof:lastmodified": 1794413830,
     "wof:name": "UA1063 (SFO-LAX)",
     "wof:parent_id": 1947304527,
     "wof:placetype": "custom",
