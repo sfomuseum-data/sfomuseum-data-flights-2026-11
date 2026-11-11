@@ -1,0 +1,72 @@
+{
+  "id": 2048820675,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-10",
+    "date:inception_upper": "2026-11-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-11-10",
+    "flysfo:estimated_timestamp": 1794305400,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA8105",
+    "flysfo:gate": "",
+    "flysfo:journey": "BUR-SFO",
+    "flysfo:scheduled_timestamp": 1794304800,
+    "flysfo:timestamp": 1794305400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,34.196704,-118.353322,37.617990",
+    "geom:latitude": 35.907347,
+    "geom:longitude": -120.3621325,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 1746879083,
+    "sfomuseum:flight_id": "20261110-A-UAL-8105",
+    "sfomuseum:flight_number": [
+      "UAL8105",
+      "UA8105"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1794413293,
+    "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048820675,
+        "flight_id": 2048820675
+      }
+    ],
+    "wof:id": 2048820675,
+    "wof:involves": [
+      102527513,
+      1746879083,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1794413293,
+    "wof:name": "UA8105 (BUR-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    34.196704,
+    -118.353322,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]]}
+}
