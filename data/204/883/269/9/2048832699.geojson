@@ -2,10 +2,12 @@
   "id": 2048832699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-11",
+    "date:cessation_upper": "2026-11-11",
     "date:inception_lower": "2026-11-11",
     "date:inception_upper": "2026-11-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-11",
+    "edtf:cessation": "2026-11-11T23:19:34Z",
+    "edtf:inception": "2026-11-11T20:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-11",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144485195"
+    },
     "wof:country": "US",
     "wof:created": 1794500086,
     "wof:geomhash": "17371a5d27e54a99ca50752d2b6a5e79",
@@ -88,7 +96,7 @@
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1794500086,
+    "wof:lastmodified": 1794500314,
     "wof:name": "WN2989 (SFO-STL)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

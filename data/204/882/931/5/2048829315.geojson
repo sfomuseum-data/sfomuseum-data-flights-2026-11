@@ -2,10 +2,12 @@
   "id": 2048829315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-11",
+    "date:cessation_upper": "2026-11-11",
     "date:inception_lower": "2026-11-11",
     "date:inception_upper": "2026-11-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-11",
+    "edtf:cessation": "2026-11-11T04:13:03-08:00",
+    "edtf:inception": "2026-11-11T18:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.7633785,
     "geom:longitude": -122.3250135,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526657,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N78285",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144472429"
+    },
     "wof:country": "US",
     "wof:created": 1794499696,
     "wof:geomhash": "c01fce3544b8d9a4d0cb6d6783ef8a82",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048829315,
     "wof:involves": [
+      1947304523,
+      1159289871,
       102527513,
       102526657,
-      1159285413,
-      1947304523
+      1159285413
     ],
-    "wof:lastmodified": 1794499696,
+    "wof:lastmodified": 1794500276,
     "wof:name": "UA3822 (PAE-SFO)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

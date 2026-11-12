@@ -2,10 +2,12 @@
   "id": 2048833237,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-11",
-    "date:inception_upper": "2026-11-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-11",
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
+    "date:inception_lower": "2026-11-12",
+    "date:inception_upper": "2026-11-12",
+    "edtf:cessation": "2026-11-12T02:16:45Z",
+    "edtf:inception": "2026-11-12T00:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144429820"
+    },
     "wof:country": "US",
     "wof:created": 1794500148,
     "wof:geomhash": "9d5970fb497c224f692cb976d5929b90",
@@ -94,7 +102,7 @@
       1947304603,
       1159283597
     ],
-    "wof:lastmodified": 1794500148,
+    "wof:lastmodified": 1794500318,
     "wof:name": "UA2492 (SFO-GEG)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

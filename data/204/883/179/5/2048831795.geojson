@@ -2,10 +2,12 @@
   "id": 2048831795,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-11",
+    "date:cessation_upper": "2026-11-11",
     "date:inception_lower": "2026-11-11",
     "date:inception_upper": "2026-11-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-11",
+    "edtf:cessation": "2026-11-11T20:13:03Z",
+    "edtf:inception": "2026-11-11T15:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144461128"
+    },
     "wof:country": "US",
     "wof:created": 1794499983,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -94,7 +102,7 @@
       1947304679,
       1159283627
     ],
-    "wof:lastmodified": 1794499983,
+    "wof:lastmodified": 1794500308,
     "wof:name": "DL400 (SFO-BOS)",
     "wof:parent_id": 1947304679,
     "wof:placetype": "custom",

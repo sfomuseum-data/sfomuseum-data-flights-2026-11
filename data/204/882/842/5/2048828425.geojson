@@ -2,10 +2,12 @@
   "id": 2048828425,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-11",
+    "date:cessation_upper": "2026-11-11",
     "date:inception_lower": "2026-11-11",
     "date:inception_upper": "2026-11-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-11",
+    "edtf:cessation": "2026-11-11T18:53:13Z",
+    "edtf:inception": "2026-11-11T13:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2026-11-11",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144453742"
+    },
     "wof:country": "US",
     "wof:created": 1794499590,
     "wof:geomhash": "d5be5400cafac7bead55e86e8433ced9",
@@ -88,7 +96,7 @@
       1763552131,
       1947304603
     ],
-    "wof:lastmodified": 1794499590,
+    "wof:lastmodified": 1794500270,
     "wof:name": "MX236 (RIC-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

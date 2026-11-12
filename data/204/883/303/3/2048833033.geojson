@@ -2,10 +2,12 @@
   "id": 2048833033,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-11",
     "date:inception_upper": "2026-11-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-11",
+    "edtf:cessation": "2026-11-12T01:13:09Z",
+    "edtf:inception": "2026-11-11T21:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.8002995,
     "geom:longitude": -106.31638749999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619451,
     "lbl:longitude": -122.384404,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530009,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N27519",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144492538"
+    },
     "wof:country": "US",
     "wof:created": 1794500125,
     "wof:geomhash": "8b4edcad4124de1c487808d2d2d1ecd3",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048833033,
     "wof:involves": [
+      1947304519,
+      1528104577,
       102530009,
       102527513,
-      1159285413,
-      1947304519
+      1159285413
     ],
-    "wof:lastmodified": 1794500125,
+    "wof:lastmodified": 1794500316,
     "wof:name": "UA1387 (SFO-MSY)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",

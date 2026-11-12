@@ -2,10 +2,12 @@
   "id": 2048829187,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-11",
+    "date:cessation_upper": "2026-11-11",
     "date:inception_lower": "2026-11-11",
     "date:inception_upper": "2026-11-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-11",
+    "edtf:cessation": "2026-11-11T23:28:10Z",
+    "edtf:inception": "2026-11-11T22:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144501157"
+    },
     "wof:country": "US",
     "wof:created": 1794499681,
     "wof:geomhash": "e570a09b358444cf621c068c13b8dbc0",
@@ -94,7 +102,7 @@
       1947304609,
       1159284211
     ],
-    "wof:lastmodified": 1794499681,
+    "wof:lastmodified": 1794500275,
     "wof:name": "UA2262 (RDM-SFO)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

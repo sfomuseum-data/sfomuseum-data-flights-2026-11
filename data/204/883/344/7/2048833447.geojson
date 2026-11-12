@@ -2,10 +2,12 @@
   "id": 2048833447,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-11",
+    "date:cessation_upper": "2026-11-11",
     "date:inception_lower": "2026-11-11",
     "date:inception_upper": "2026-11-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-11",
+    "edtf:cessation": "2026-11-11T23:49:29Z",
+    "edtf:inception": "2026-11-11T22:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.2977885,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527733,
     "sfomuseum:base_flight_id": "20261111-D-ACA-3996",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N445UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144501196"
+    },
     "wof:country": "US",
     "wof:created": 1794500172,
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2048833447,
     "wof:involves": [
+      1159292085,
       102527733,
       102527513,
       1159285413,
       1947304617,
       1159283597
     ],
-    "wof:lastmodified": 1794500172,
+    "wof:lastmodified": 1794500320,
     "wof:name": "UA582 (SFO-BOI)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",
