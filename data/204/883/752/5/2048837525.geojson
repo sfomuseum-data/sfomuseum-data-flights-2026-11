@@ -1,0 +1,72 @@
+{
+  "id": 2048837525,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-12",
+    "date:inception_upper": "2026-11-12",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-12",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-11-12",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA114",
+    "flysfo:gate": "",
+    "flysfo:journey": "PPT-SFO",
+    "flysfo:scheduled_timestamp": 1794500700,
+    "flysfo:timestamp": 1794500700,
+    "geom:area": 0,
+    "geom:bbox": "-149.617144,-17.573463,-122.370943,37.617990",
+    "geom:latitude": 10.0222635,
+    "geom:longitude": -135.9940435,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102558779,
+    "sfomuseum:flight_id": "20261112-A-UAL-114",
+    "sfomuseum:flight_number": [
+      "UAL114",
+      "UA114"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1794586092,
+    "wof:geomhash": "cb635fc427df70f0d5f88d1f39ad4ded",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048837525,
+        "flight_id": 2048837525
+      }
+    ],
+    "wof:id": 2048837525,
+    "wof:involves": [
+      102527513,
+      102558779,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1794586092,
+    "wof:name": "UA114 (PPT-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -149.617144,
+    -17.573463,
+    -122.370943,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-149.617144,-17.573463],[-122.370943,37.61799]]}
+}
