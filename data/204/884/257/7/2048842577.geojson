@@ -2,10 +2,12 @@
   "id": 2048842577,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-13T02:02:35Z",
+    "edtf:inception": "2026-11-12T23:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144564274"
+    },
     "wof:country": "US",
     "wof:created": 1794586674,
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
@@ -94,7 +102,7 @@
       1947304495,
       1159283597
     ],
-    "wof:lastmodified": 1794586674,
+    "wof:lastmodified": 1794586832,
     "wof:name": "UA643 (SFO-SNA)",
     "wof:parent_id": 1947304495,
     "wof:placetype": "custom",

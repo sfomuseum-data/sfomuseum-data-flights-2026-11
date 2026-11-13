@@ -2,10 +2,12 @@
   "id": 2048840679,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-12T20:21:03Z",
+    "edtf:inception": "2026-11-12T16:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20261112-D-AMX-4175",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N710TW",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144550128"
+    },
     "wof:country": "US",
     "wof:created": 1794586456,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048840679,
     "wof:involves": [
+      1159283539,
+      1159289939,
       102526927,
       102527513,
       1159284261,
-      1947304671,
-      1159283539
+      1947304671
     ],
-    "wof:lastmodified": 1794586456,
+    "wof:lastmodified": 1794586818,
     "wof:name": "DL640 (SFO-ATL)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",

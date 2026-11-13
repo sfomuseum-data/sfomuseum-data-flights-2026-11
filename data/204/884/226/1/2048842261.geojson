@@ -2,10 +2,12 @@
   "id": 2048842261,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-12T19:57:52Z",
+    "edtf:inception": "2026-11-12T18:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-12",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144562996"
+    },
     "wof:country": "US",
     "wof:created": 1794586638,
     "wof:geomhash": "398b6cf59cf3bdf390f5834c7a336099",
@@ -88,7 +96,7 @@
       1159285413,
       1947304623
     ],
-    "wof:lastmodified": 1794586638,
+    "wof:lastmodified": 1794586829,
     "wof:name": "UA2449 (SFO-RDM)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048840661,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-12T20:38:52Z",
+    "edtf:inception": "2026-11-12T15:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:base_flight_id": "20261112-D-AFR-8859",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N545DE",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144545062"
+    },
     "wof:country": "US",
     "wof:created": 1794586454,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048840661,
     "wof:involves": [
+      1763588251,
+      1159283627,
+      1377564297,
       102530741,
       102527513,
-      1159284261,
-      1763588251,
-      1159283627
+      1159284261
     ],
-    "wof:lastmodified": 1794586454,
+    "wof:lastmodified": 1794586817,
     "wof:name": "DL400 (SFO-BOS)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

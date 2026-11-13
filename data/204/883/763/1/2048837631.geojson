@@ -2,10 +2,12 @@
   "id": 2048837631,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-12T15:43:36Z",
+    "edtf:inception": "2026-11-12T13:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144538422"
+    },
     "wof:country": "US",
     "wof:created": 1794586104,
     "wof:geomhash": "8fe6791c85dc44fbddffd72416ea0024",
@@ -94,7 +102,7 @@
       1947304519,
       1159283597
     ],
-    "wof:lastmodified": 1794586104,
+    "wof:lastmodified": 1794586781,
     "wof:name": "UA1719 (ABQ-SFO)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",

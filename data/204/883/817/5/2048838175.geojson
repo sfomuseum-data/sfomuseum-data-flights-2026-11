@@ -2,10 +2,12 @@
   "id": 2048838175,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-12T15:00:46Z",
+    "edtf:inception": "2026-11-12T14:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144540714"
+    },
     "wof:country": "US",
     "wof:created": 1794586167,
     "wof:geomhash": "dcc7d5812c5708e8b42757f5054e75d6",
@@ -94,7 +102,7 @@
       1947304495,
       1159283697
     ],
-    "wof:lastmodified": 1794586167,
+    "wof:lastmodified": 1794586785,
     "wof:name": "UA733 (ACV-SFO)",
     "wof:parent_id": 1947304495,
     "wof:placetype": "custom",

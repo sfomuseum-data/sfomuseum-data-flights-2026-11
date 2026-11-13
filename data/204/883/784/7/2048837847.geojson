@@ -2,10 +2,12 @@
   "id": 2048837847,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-12T09:18:14-08:00",
+    "edtf:inception": "2026-11-12T23:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -114.4957645,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261112-A-ACA-4632",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37540",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144590480"
+    },
     "wof:country": "US",
     "wof:created": 1794586129,
     "wof:geomhash": "8fe6791c85dc44fbddffd72416ea0024",
@@ -92,9 +104,10 @@
       102529173,
       1159285413,
       1947304515,
-      1159283597
+      1159283597,
+      1528104577
     ],
-    "wof:lastmodified": 1794586129,
+    "wof:lastmodified": 1794586783,
     "wof:name": "UA264 (ABQ-SFO)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048836947,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-12T23:05:47Z",
+    "edtf:inception": "2026-11-12T21:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2026-11-12",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144579853"
+    },
     "wof:country": "US",
     "wof:created": 1794586022,
     "wof:geomhash": "d887ded7dd7ecdf1f3f44081817da1ef",
@@ -88,7 +96,7 @@
       1763552131,
       1947304673
     ],
-    "wof:lastmodified": 1794586022,
+    "wof:lastmodified": 1794586776,
     "wof:name": "MX1066 (PVU-SFO)",
     "wof:parent_id": 1947304673,
     "wof:placetype": "custom",

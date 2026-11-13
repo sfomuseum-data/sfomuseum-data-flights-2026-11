@@ -2,10 +2,12 @@
   "id": 2048841317,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-12",
-    "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
+    "date:inception_lower": "2026-11-13",
+    "date:inception_upper": "2026-11-13",
+    "edtf:cessation": "2026-11-13T06:41:19Z",
+    "edtf:inception": "2026-11-13T05:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2026-11-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.918857,
     "geom:longitude": -117.0466615,
     "iata:airline": "MX",
+    "icao:aircraft": "BCS3",
     "icao:airline": "MXY",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1763552131,
     "sfomuseum:arrival_id": 102532277,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N239BZ",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +92,13 @@
     ],
     "wof:id": 2048841317,
     "wof:involves": [
-      102532277,
       102527513,
       1763552131,
-      1947304673
+      1947304673,
+      1813375783,
+      102532277
     ],
-    "wof:lastmodified": 1794586530,
+    "wof:lastmodified": 1794586823,
     "wof:name": "MX1373 (SFO-PVU)",
     "wof:parent_id": 1947304673,
     "wof:placetype": "custom",

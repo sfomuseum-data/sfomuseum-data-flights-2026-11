@@ -2,10 +2,12 @@
   "id": 2048837791,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-12T15:48:54Z",
+    "edtf:inception": "2026-11-12T14:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144541717"
+    },
     "wof:country": "US",
     "wof:created": 1794586122,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -94,7 +102,7 @@
       1947304609,
       1159283597
     ],
-    "wof:lastmodified": 1794586122,
+    "wof:lastmodified": 1794586782,
     "wof:name": "UA2322 (SAN-SFO)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

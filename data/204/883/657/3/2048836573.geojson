@@ -2,10 +2,12 @@
   "id": 2048836573,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-12T02:39:37-08:00",
+    "edtf:inception": "2026-11-12T16:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2026-11-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.7414645,
     "geom:longitude": -113.521581,
     "iata:airline": "F9",
+    "icao:aircraft": "A21N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531189,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N604FR",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144552231"
+    },
     "wof:country": "US",
     "wof:created": 1794585978,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048836573,
     "wof:involves": [
+      1947304273,
+      1377564297,
       102527513,
       102531189,
-      1159284401,
-      1947304273
+      1159284401
     ],
-    "wof:lastmodified": 1794585978,
+    "wof:lastmodified": 1794586771,
     "wof:name": "F91229 (DEN-SFO)",
     "wof:parent_id": 1947304273,
     "wof:placetype": "custom",

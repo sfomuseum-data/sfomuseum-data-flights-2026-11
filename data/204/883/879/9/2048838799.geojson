@@ -2,10 +2,12 @@
   "id": 2048838799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-12T20:25:07Z",
+    "edtf:inception": "2026-11-12T15:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144547260"
+    },
     "wof:country": "US",
     "wof:created": 1794586239,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -94,7 +102,7 @@
       1947304265,
       1159285081
     ],
-    "wof:lastmodified": 1794586239,
+    "wof:lastmodified": 1794586789,
     "wof:name": "AA234 (SFO-JFK)",
     "wof:parent_id": 1947304265,
     "wof:placetype": "custom",

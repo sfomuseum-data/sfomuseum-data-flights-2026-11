@@ -2,10 +2,12 @@
   "id": 2048837893,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-12T08:59:46-08:00",
+    "edtf:inception": "2026-11-12T19:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20261112-A-ANZ-9176",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N69840",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144569795"
+    },
     "wof:country": "US",
     "wof:created": 1794586134,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2048837893,
     "wof:involves": [
+      1377564285,
       102527513,
       102528817,
       1159285413,
       1947304453,
       1159283697
     ],
-    "wof:lastmodified": 1794586134,
+    "wof:lastmodified": 1794586783,
     "wof:name": "UA2862 (IAD-SFO)",
     "wof:parent_id": 1947304453,
     "wof:placetype": "custom",

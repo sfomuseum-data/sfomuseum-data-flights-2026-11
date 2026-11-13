@@ -2,10 +2,12 @@
   "id": 2048834407,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-12T20:48:24Z",
+    "edtf:inception": "2026-11-12T17:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144557409"
+    },
     "wof:country": "US",
     "wof:created": 1794585706,
     "wof:geomhash": "865973335526f09b753756c305bf4946",
@@ -94,7 +102,7 @@
       1947304283,
       1779770725
     ],
-    "wof:lastmodified": 1794585706,
+    "wof:lastmodified": 1794586753,
     "wof:name": "AA810 (DFW-SFO)",
     "wof:parent_id": 1947304283,
     "wof:placetype": "custom",

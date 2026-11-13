@@ -2,10 +2,12 @@
   "id": 2048837915,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-12",
+    "date:cessation_upper": "2026-11-12",
     "date:inception_lower": "2026-11-12",
     "date:inception_upper": "2026-11-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-12",
+    "edtf:cessation": "2026-11-12T18:05:56Z",
+    "edtf:inception": "2026-11-12T12:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144535117"
+    },
     "wof:country": "US",
     "wof:created": 1794586137,
     "wof:geomhash": "cfff966b0a5de3ca50080923c4337cfe",
@@ -94,7 +102,7 @@
       1947304523,
       1159283697
     ],
-    "wof:lastmodified": 1794586137,
+    "wof:lastmodified": 1794586783,
     "wof:name": "UA369 (DCA-SFO)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",
