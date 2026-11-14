@@ -2,10 +2,12 @@
   "id": 2048850785,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-13",
-    "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "date:cessation_lower": "2026-11-14",
+    "date:cessation_upper": "2026-11-14",
+    "date:inception_lower": "2026-11-14",
+    "date:inception_upper": "2026-11-14",
+    "edtf:cessation": "2026-11-14T13:44:16Z",
+    "edtf:inception": "2026-11-14T08:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.3996545,
     "geom:longitude": -99.5210065,
     "iata:airline": "WN",
+    "icao:aircraft": "B38M",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 102532047,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8984L",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144608969"
+    },
     "wof:country": "US",
     "wof:created": 1794672944,
     "wof:geomhash": "ff243e97b2d4ce40e0a4accb79115371",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048850785,
     "wof:involves": [
-      102532047,
-      102527513,
       1159285591,
-      1947304599
+      1947304599,
+      1528104575,
+      102532047,
+      102527513
     ],
-    "wof:lastmodified": 1794672944,
+    "wof:lastmodified": 1794673183,
     "wof:name": "WN3547 (SFO-BWI)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048846393,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T06:41:47Z",
+    "edtf:inception": "2026-11-13T04:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-13",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144608459"
+    },
     "wof:country": "US",
     "wof:created": 1794672452,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -51,7 +56,7 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1794672452,
+    "wof:lastmodified": 1794673157,
     "wof:name": "WN2844 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

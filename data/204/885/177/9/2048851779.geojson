@@ -2,10 +2,12 @@
   "id": 2048851779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T04:40:51Z",
+    "edtf:inception": "2026-11-13T03:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-13",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144607201"
+    },
     "wof:country": "US",
     "wof:created": 1794673054,
     "wof:geomhash": "17371a5d27e54a99ca50752d2b6a5e79",
@@ -51,7 +56,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1794673054,
+    "wof:lastmodified": 1794673190,
     "wof:name": "UA8167 (SFO-STL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

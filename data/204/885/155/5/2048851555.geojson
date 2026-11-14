@@ -2,10 +2,12 @@
   "id": 2048851555,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T12:12:08Z",
+    "edtf:inception": "2026-11-13T07:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144611756"
+    },
     "wof:country": "US",
     "wof:created": 1794673029,
     "wof:geomhash": "f65caf98d316e6ee4a43fdc3ee688d07",
@@ -94,7 +99,7 @@
       1947304457,
       1159283697
     ],
-    "wof:lastmodified": 1794673029,
+    "wof:lastmodified": 1794673188,
     "wof:name": "UA528 (SFO-CLE)",
     "wof:parent_id": 1947304457,
     "wof:placetype": "custom",

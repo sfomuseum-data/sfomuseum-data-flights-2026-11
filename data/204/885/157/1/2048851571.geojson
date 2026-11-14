@@ -2,10 +2,12 @@
   "id": 2048851571,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T12:58:10Z",
+    "edtf:inception": "2026-11-13T11:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144617011"
+    },
     "wof:country": "US",
     "wof:created": 1794673031,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -94,7 +102,7 @@
       1947304609,
       1159283597
     ],
-    "wof:lastmodified": 1794673031,
+    "wof:lastmodified": 1794673188,
     "wof:name": "UA543 (SFO-LAS)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

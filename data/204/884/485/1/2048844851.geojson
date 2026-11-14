@@ -2,10 +2,12 @@
   "id": 2048844851,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T05:29:04Z",
+    "edtf:inception": "2026-11-13T00:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144592888"
+    },
     "wof:country": "US",
     "wof:created": 1794672274,
     "wof:geomhash": "cfff966b0a5de3ca50080923c4337cfe",
@@ -94,7 +99,7 @@
       1947304275,
       1159283717
     ],
-    "wof:lastmodified": 1794672274,
+    "wof:lastmodified": 1794673148,
     "wof:name": "AS7 (DCA-SFO)",
     "wof:parent_id": 1947304275,
     "wof:placetype": "custom",

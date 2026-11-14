@@ -2,10 +2,12 @@
   "id": 2048850781,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T06:40:52Z",
+    "edtf:inception": "2026-11-13T05:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-13",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144606690"
+    },
     "wof:country": "US",
     "wof:created": 1794672944,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -88,7 +93,7 @@
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1794672944,
+    "wof:lastmodified": 1794673183,
     "wof:name": "WN342 (SFO-LAX)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

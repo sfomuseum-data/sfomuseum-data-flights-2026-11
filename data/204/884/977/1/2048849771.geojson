@@ -2,10 +2,12 @@
   "id": 2048849771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T11:15:28Z",
+    "edtf:inception": "2026-11-13T07:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144610590"
+    },
     "wof:country": "US",
     "wof:created": 1794672830,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -57,7 +62,7 @@
       -1,
       1159283539
     ],
-    "wof:lastmodified": 1794672830,
+    "wof:lastmodified": 1794673177,
     "wof:name": "DL495 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

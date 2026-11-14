@@ -2,10 +2,12 @@
   "id": 2048850813,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T04:15:09Z",
+    "edtf:inception": "2026-11-13T03:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-13",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144603846"
+    },
     "wof:country": "US",
     "wof:created": 1794672947,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -88,7 +93,7 @@
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1794672947,
+    "wof:lastmodified": 1794673184,
     "wof:name": "WN3857 (SFO-SAN)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

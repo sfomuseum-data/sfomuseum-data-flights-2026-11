@@ -2,10 +2,12 @@
   "id": 2048844833,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T06:18:39Z",
+    "edtf:inception": "2026-11-13T04:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144607181"
+    },
     "wof:country": "US",
     "wof:created": 1794672272,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -94,7 +99,7 @@
       1947304311,
       1159283849
     ],
-    "wof:lastmodified": 1794672272,
+    "wof:lastmodified": 1794673148,
     "wof:name": "AS590 (SEA-SFO)",
     "wof:parent_id": 1947304311,
     "wof:placetype": "custom",

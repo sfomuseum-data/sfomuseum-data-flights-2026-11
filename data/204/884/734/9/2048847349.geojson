@@ -2,10 +2,12 @@
   "id": 2048847349,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T07:08:09Z",
+    "edtf:inception": "2026-11-13T01:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144573007"
+    },
     "wof:country": "US",
     "wof:created": 1794672560,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -94,7 +99,7 @@
       1947304473,
       1159283697
     ],
-    "wof:lastmodified": 1794672560,
+    "wof:lastmodified": 1794673164,
     "wof:name": "UA794 (EWR-SFO)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048847171,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T03:44:15Z",
+    "edtf:inception": "2026-11-13T02:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144602714"
+    },
     "wof:country": "US",
     "wof:created": 1794672540,
     "wof:geomhash": "e506e1cc6e68aaf992ce3bac53e4e4fa",
@@ -94,7 +99,7 @@
       1947304601,
       1159283597
     ],
-    "wof:lastmodified": 1794672540,
+    "wof:lastmodified": 1794673163,
     "wof:name": "UA528 (BOI-SFO)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",

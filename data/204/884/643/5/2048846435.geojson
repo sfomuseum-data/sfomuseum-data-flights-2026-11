@@ -2,10 +2,12 @@
   "id": 2048846435,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T06:49:24Z",
+    "edtf:inception": "2026-11-13T02:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-13",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144603350"
+    },
     "wof:country": "US",
     "wof:created": 1794672457,
     "wof:geomhash": "462e561a68f133085fb895c49eddc748",
@@ -51,7 +56,7 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1794672457,
+    "wof:lastmodified": 1794673157,
     "wof:name": "WN4813 (BNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

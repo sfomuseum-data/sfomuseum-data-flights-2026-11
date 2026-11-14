@@ -2,10 +2,12 @@
   "id": 2048847081,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T12:10:33Z",
+    "edtf:inception": "2026-11-13T09:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-13",
@@ -48,6 +50,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144651786"
+    },
     "wof:country": "US",
     "wof:created": 1794672530,
     "wof:geomhash": "695a4459433e46f84142eb882ae7a106",
@@ -88,7 +93,7 @@
       1159285413,
       1947304487
     ],
-    "wof:lastmodified": 1794672530,
+    "wof:lastmodified": 1794673163,
     "wof:name": "UA3875 (IAB-SFO)",
     "wof:parent_id": 1947304487,
     "wof:placetype": "custom",

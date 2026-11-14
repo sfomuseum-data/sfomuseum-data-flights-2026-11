@@ -2,10 +2,12 @@
   "id": 2048847029,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T04:19:42Z",
+    "edtf:inception": "2026-11-13T00:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144591869"
+    },
     "wof:country": "US",
     "wof:created": 1794672524,
     "wof:geomhash": "c95405ad82a47404b222d64c163ad7d9",
@@ -94,7 +99,7 @@
       1947304609,
       1159283697
     ],
-    "wof:lastmodified": 1794672524,
+    "wof:lastmodified": 1794673163,
     "wof:name": "UA2799 (IND-SFO)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

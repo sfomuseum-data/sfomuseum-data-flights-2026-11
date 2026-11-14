@@ -2,10 +2,12 @@
   "id": 2048846419,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T07:27:26Z",
+    "edtf:inception": "2026-11-13T05:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-13",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144610108"
+    },
     "wof:country": "US",
     "wof:created": 1794672456,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -88,7 +93,7 @@
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1794672456,
+    "wof:lastmodified": 1794673157,
     "wof:name": "WN4104 (PHX-SFO)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048850759,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T03:00:00Z",
+    "edtf:inception": "2026-11-13T01:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-13",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144599999"
+    },
     "wof:country": "US",
     "wof:created": 1794672941,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -88,7 +93,7 @@
       1159285591,
       1947304625
     ],
-    "wof:lastmodified": 1794672941,
+    "wof:lastmodified": 1794673183,
     "wof:name": "WN2386 (SFO-LAS)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

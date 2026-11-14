@@ -2,10 +2,12 @@
   "id": 2048847931,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T05:05:19Z",
+    "edtf:inception": "2026-11-13T00:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144591165"
+    },
     "wof:country": "US",
     "wof:created": 1794672626,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -94,7 +99,7 @@
       1947304309,
       1159283717
     ],
-    "wof:lastmodified": 1794672626,
+    "wof:lastmodified": 1794673167,
     "wof:name": "AA148 (SFO-JFK)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048849753,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T12:16:20Z",
+    "edtf:inception": "2026-11-13T08:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144611043"
+    },
     "wof:country": "US",
     "wof:created": 1794672828,
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
@@ -57,7 +62,7 @@
       -1,
       1159285523
     ],
-    "wof:lastmodified": 1794672828,
+    "wof:lastmodified": 1794673177,
     "wof:name": "DL335 (SFO-DTW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

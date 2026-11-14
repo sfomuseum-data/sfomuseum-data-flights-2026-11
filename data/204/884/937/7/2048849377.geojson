@@ -2,10 +2,12 @@
   "id": 2048849377,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T18:36:52Z",
+    "edtf:inception": "2026-11-13T18:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2026-11-13",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144649366"
+    },
     "wof:country": "US",
     "wof:created": 1794672786,
     "wof:geomhash": "9e57705c73bd73668d4b0d529a043646",
@@ -88,7 +96,7 @@
       1159283813,
       1947304289
     ],
-    "wof:lastmodified": 1794672786,
+    "wof:lastmodified": 1794673175,
     "wof:name": "AS9718 (SFO-SJC)",
     "wof:parent_id": 1947304289,
     "wof:placetype": "custom",

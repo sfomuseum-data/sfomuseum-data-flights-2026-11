@@ -2,10 +2,12 @@
   "id": 2048846407,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T06:27:34Z",
+    "edtf:inception": "2026-11-13T05:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-13",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144609412"
+    },
     "wof:country": "US",
     "wof:created": 1794672454,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -88,7 +93,7 @@
       1159285591,
       1947304621
     ],
-    "wof:lastmodified": 1794672454,
+    "wof:lastmodified": 1794673157,
     "wof:name": "WN3296 (SAN-SFO)",
     "wof:parent_id": 1947304621,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048851795,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T09:47:12Z",
+    "edtf:inception": "2026-11-13T07:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-13",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144600469"
+    },
     "wof:country": "US",
     "wof:created": 1794673055,
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
@@ -51,7 +56,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1794673055,
+    "wof:lastmodified": 1794673190,
     "wof:name": "UA8266 (SFO-BNA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

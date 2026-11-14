@@ -2,10 +2,12 @@
   "id": 2048849227,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T03:31:02Z",
+    "edtf:inception": "2026-11-13T02:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144598714"
+    },
     "wof:country": "US",
     "wof:created": 1794672769,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -94,7 +99,7 @@
       1947304275,
       1159283849
     ],
-    "wof:lastmodified": 1794672769,
+    "wof:lastmodified": 1794673174,
     "wof:name": "AS1330 (SFO-SAN)",
     "wof:parent_id": 1947304275,
     "wof:placetype": "custom",

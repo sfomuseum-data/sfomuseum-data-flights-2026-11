@@ -2,10 +2,12 @@
   "id": 2048846881,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T01:44:48Z",
+    "edtf:inception": "2026-11-13T00:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144590080"
+    },
     "wof:country": "US",
     "wof:created": 1794672508,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -94,7 +99,7 @@
       1947304519,
       1159283597
     ],
-    "wof:lastmodified": 1794672508,
+    "wof:lastmodified": 1794673161,
     "wof:name": "UA2047 (LAS-SFO)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",

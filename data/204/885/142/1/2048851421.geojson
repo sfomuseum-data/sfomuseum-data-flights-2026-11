@@ -2,10 +2,12 @@
   "id": 2048851421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T04:09:35Z",
+    "edtf:inception": "2026-11-13T03:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144604920"
+    },
     "wof:country": "US",
     "wof:created": 1794673014,
     "wof:geomhash": "6ee4dc6f06435306541ac2ffbe1ad823",
@@ -94,7 +99,7 @@
       1947304601,
       1159286015
     ],
-    "wof:lastmodified": 1794673014,
+    "wof:lastmodified": 1794673187,
     "wof:name": "UA264 (SFO-SBP)",
     "wof:parent_id": 1947304601,
     "wof:placetype": "custom",

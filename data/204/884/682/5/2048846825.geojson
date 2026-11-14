@@ -2,10 +2,12 @@
   "id": 2048846825,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T07:41:38Z",
+    "edtf:inception": "2026-11-13T06:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144610719"
+    },
     "wof:country": "US",
     "wof:created": 1794672502,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -94,7 +99,7 @@
       1947304133,
       1159283605
     ],
-    "wof:lastmodified": 1794672502,
+    "wof:lastmodified": 1794673161,
     "wof:name": "UA1853 (LAX-SFO)",
     "wof:parent_id": 1947304133,
     "wof:placetype": "custom",

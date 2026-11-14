@@ -2,10 +2,12 @@
   "id": 2048847945,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T13:27:39Z",
+    "edtf:inception": "2026-11-13T08:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144612062"
+    },
     "wof:country": "US",
     "wof:created": 1794672627,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -94,7 +99,7 @@
       1947304283,
       1779770725
     ],
-    "wof:lastmodified": 1794672627,
+    "wof:lastmodified": 1794673168,
     "wof:name": "AA1844 (SFO-MIA)",
     "wof:parent_id": 1947304283,
     "wof:placetype": "custom",

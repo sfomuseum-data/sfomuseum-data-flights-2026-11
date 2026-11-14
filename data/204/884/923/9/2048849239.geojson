@@ -2,10 +2,12 @@
   "id": 2048849239,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T05:13:44Z",
+    "edtf:inception": "2026-11-13T04:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144606256"
+    },
     "wof:country": "US",
     "wof:created": 1794672770,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -94,7 +99,7 @@
       1947304289,
       1159283849
     ],
-    "wof:lastmodified": 1794672770,
+    "wof:lastmodified": 1794673174,
     "wof:name": "AS1362 (SFO-LAS)",
     "wof:parent_id": 1947304289,
     "wof:placetype": "custom",

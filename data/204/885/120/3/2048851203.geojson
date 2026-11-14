@@ -2,10 +2,12 @@
   "id": 2048851203,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T13:14:12Z",
+    "edtf:inception": "2026-11-13T08:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144611750"
+    },
     "wof:country": "US",
     "wof:created": 1794672990,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -57,7 +62,7 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1794672990,
+    "wof:lastmodified": 1794673186,
     "wof:name": "UA1665 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

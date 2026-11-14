@@ -2,10 +2,12 @@
   "id": 2048850771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T18:52:42Z",
+    "edtf:inception": "2026-11-13T17:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-13",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144638772"
+    },
     "wof:country": "US",
     "wof:created": 1794672943,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -88,7 +96,7 @@
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1794672943,
+    "wof:lastmodified": 1794673183,
     "wof:name": "WN3086 (SFO-SAN)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048848113,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T12:14:14Z",
+    "edtf:inception": "2026-11-13T09:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144611138"
+    },
     "wof:country": "US",
     "wof:created": 1794672646,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -94,7 +99,7 @@
       1947304277,
       1159284021
     ],
-    "wof:lastmodified": 1794672646,
+    "wof:lastmodified": 1794673169,
     "wof:name": "AA939 (SFO-DFW)",
     "wof:parent_id": 1947304277,
     "wof:placetype": "custom",

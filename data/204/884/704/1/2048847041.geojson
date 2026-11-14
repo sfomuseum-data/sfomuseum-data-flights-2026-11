@@ -2,10 +2,12 @@
   "id": 2048847041,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T05:47:28Z",
+    "edtf:inception": "2026-11-13T04:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144607955"
+    },
     "wof:country": "US",
     "wof:created": 1794672526,
     "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
@@ -94,7 +99,7 @@
       1947304453,
       1159283597
     ],
-    "wof:lastmodified": 1794672526,
+    "wof:lastmodified": 1794673163,
     "wof:name": "UA2854 (BUR-SFO)",
     "wof:parent_id": 1947304453,
     "wof:placetype": "custom",

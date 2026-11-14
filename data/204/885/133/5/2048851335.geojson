@@ -2,10 +2,12 @@
   "id": 2048851335,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-13",
+    "date:cessation_upper": "2026-11-13",
     "date:inception_lower": "2026-11-13",
     "date:inception_upper": "2026-11-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-13",
+    "edtf:cessation": "2026-11-13T09:04:26Z",
+    "edtf:inception": "2026-11-13T08:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144611656"
+    },
     "wof:country": "US",
     "wof:created": 1794673005,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -94,7 +99,7 @@
       1947304527,
       1159283697
     ],
-    "wof:lastmodified": 1794673005,
+    "wof:lastmodified": 1794673186,
     "wof:name": "UA2179 (SFO-LAX)",
     "wof:parent_id": 1947304527,
     "wof:placetype": "custom",
