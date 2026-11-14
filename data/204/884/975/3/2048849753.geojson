@@ -1,0 +1,78 @@
+{
+  "id": 2048849753,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-13",
+    "date:inception_upper": "2026-11-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "8016",
+    "flysfo:date": "2026-11-13",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL335",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-DTW",
+    "flysfo:scheduled_timestamp": 1794638400,
+    "flysfo:timestamp": 1794638400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-83.351709,42.218860",
+    "geom:latitude": 39.918425,
+    "geom:longitude": -102.86132599999999,
+    "iata:airline": "DL",
+    "iata:base_airline": "",
+    "icao:airline": "DAL",
+    "icao:base_airline": "WJA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102525635,
+    "sfomuseum:base_flight_id": "20261113-D-WJA-8016",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261113-D-DAL-335",
+    "sfomuseum:flight_number": [
+      "DAL335",
+      "DL335"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1794672828,
+    "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048849753,
+        "flight_id": 2048849753
+      }
+    ],
+    "wof:id": 2048849753,
+    "wof:involves": [
+      102525635,
+      102527513,
+      1159284261,
+      -1,
+      1159285523
+    ],
+    "wof:lastmodified": 1794672828,
+    "wof:name": "DL335 (SFO-DTW)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -83.351709,
+    42.21886
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-83.351709,42.21886]]}
+}

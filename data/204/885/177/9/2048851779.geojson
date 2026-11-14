@@ -1,0 +1,72 @@
+{
+  "id": 2048851779,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-13",
+    "date:inception_upper": "2026-11-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-11-13",
+    "flysfo:estimated_timestamp": 1794600900,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8167",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-STL",
+    "flysfo:scheduled_timestamp": 1794600900,
+    "flysfo:timestamp": 1794600900,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-90.367632,38.743872",
+    "geom:latitude": 38.180931,
+    "geom:longitude": -106.3692875,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 1746879059,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261113-D-UAL-8167",
+    "sfomuseum:flight_number": [
+      "UAL8167",
+      "UA8167"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1794673054,
+    "wof:geomhash": "17371a5d27e54a99ca50752d2b6a5e79",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048851779,
+        "flight_id": 2048851779
+      }
+    ],
+    "wof:id": 2048851779,
+    "wof:involves": [
+      1746879059,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1794673054,
+    "wof:name": "UA8167 (SFO-STL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -90.367632,
+    38.743872
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-90.367632,38.743872]]}
+}

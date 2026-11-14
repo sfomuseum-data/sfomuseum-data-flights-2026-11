@@ -1,0 +1,72 @@
+{
+  "id": 2048850875,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-13",
+    "date:inception_upper": "2026-11-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "TP",
+    "flysfo:date": "2026-11-13",
+    "flysfo:estimated_timestamp": 1794632400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "TP23",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-LIS",
+    "flysfo:scheduled_timestamp": 1794632400,
+    "flysfo:timestamp": 1794632400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-9.135591,38.772844",
+    "geom:latitude": 38.195417,
+    "geom:longitude": -65.753267,
+    "iata:airline": "TP",
+    "icao:airline": "TAP",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285271,
+    "sfomuseum:arrival_id": 102535643,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261113-D-TAP-23",
+    "sfomuseum:flight_number": [
+      "TAP23",
+      "TP23"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1794672954,
+    "wof:geomhash": "d52bb0a5cfa06eebb6a938b29d78a44d",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048850875,
+        "flight_id": 2048850875
+      }
+    ],
+    "wof:id": 2048850875,
+    "wof:involves": [
+      102535643,
+      102527513,
+      1159285271,
+      -1
+    ],
+    "wof:lastmodified": 1794672954,
+    "wof:name": "TP23 (SFO-LIS)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -9.135591,
+    38.772844
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-9.135591,38.772844]]}
+}
