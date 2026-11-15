@@ -1,0 +1,78 @@
+{
+  "id": 2048853619,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-14",
+    "date:inception_upper": "2026-11-14",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-14",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "NZ",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "3783",
+    "flysfo:date": "2026-11-14",
+    "flysfo:estimated_timestamp": 1794701100,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "NZ9801",
+    "flysfo:gate": "",
+    "flysfo:journey": "FRA-SFO",
+    "flysfo:scheduled_timestamp": 1794701100,
+    "flysfo:timestamp": 1794701100,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,7.267284,49.945918",
+    "geom:latitude": 43.781954,
+    "geom:longitude": -57.5518295,
+    "iata:airline": "NZ",
+    "iata:base_airline": "",
+    "icao:airline": "ANZ",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283697,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:base_flight_id": "20261114-A-ACA-3783",
+    "sfomuseum:departure_id": 102549057,
+    "sfomuseum:flight_id": "20261114-A-ANZ-9801",
+    "sfomuseum:flight_number": [
+      "ANZ9801",
+      "NZ9801"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1794758630,
+    "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048853619,
+        "flight_id": 2048853619
+      }
+    ],
+    "wof:id": 2048853619,
+    "wof:involves": [
+      102527513,
+      102549057,
+      1159283697,
+      -1,
+      1159283597
+    ],
+    "wof:lastmodified": 1794758630,
+    "wof:name": "NZ9801 (FRA-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    7.267284,
+    49.945918
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[7.267284,49.945918],[-122.370943,37.61799]]}
+}
