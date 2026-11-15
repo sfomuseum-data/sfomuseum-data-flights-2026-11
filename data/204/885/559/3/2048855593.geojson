@@ -2,10 +2,12 @@
   "id": 2048855593,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-14",
+    "date:cessation_upper": "2026-11-14",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-14T09:57:59Z",
+    "edtf:inception": "2026-11-14T07:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144695551"
+    },
     "wof:country": "US",
     "wof:created": 1794758863,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -94,7 +99,7 @@
       1947304613,
       1159283597
     ],
-    "wof:lastmodified": 1794758863,
+    "wof:lastmodified": 1794759454,
     "wof:name": "UA2123 (DEN-SFO)",
     "wof:parent_id": 1947304613,
     "wof:placetype": "custom",

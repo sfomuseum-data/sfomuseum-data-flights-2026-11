@@ -2,10 +2,12 @@
   "id": 2048854271,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-14",
+    "date:cessation_upper": "2026-11-14",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-14T08:53:46Z",
+    "edtf:inception": "2026-11-14T03:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144672947"
+    },
     "wof:country": "US",
     "wof:created": 1794758707,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -57,7 +62,7 @@
       -1,
       1159283539
     ],
-    "wof:lastmodified": 1794758707,
+    "wof:lastmodified": 1794759446,
     "wof:name": "DL365 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

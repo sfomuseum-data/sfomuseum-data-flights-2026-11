@@ -2,10 +2,12 @@
   "id": 2048859577,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-14",
+    "date:cessation_upper": "2026-11-14",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-14T23:53:33Z",
+    "edtf:inception": "2026-11-14T19:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-14",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144734075"
+    },
     "wof:country": "US",
     "wof:created": 1794759322,
     "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
@@ -88,7 +96,7 @@
       1159285413,
       1947304489
     ],
-    "wof:lastmodified": 1794759322,
+    "wof:lastmodified": 1794759487,
     "wof:name": "UA1986 (SFO-OGG)",
     "wof:parent_id": 1947304489,
     "wof:placetype": "custom",

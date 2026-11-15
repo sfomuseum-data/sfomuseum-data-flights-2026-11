@@ -2,10 +2,12 @@
   "id": 2048857061,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-15T00:37:43Z",
+    "edtf:inception": "2026-11-14T20:12:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:base_flight_id": "20261114-D-ANZ-4724",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CFGKP",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144742881"
+    },
     "wof:country": "US",
     "wof:created": 1794759033,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -54,10 +66,10 @@
       102555091,
       102527513,
       1159283597,
-      -1,
-      1159283697
+      1159283697,
+      1159289411
     ],
-    "wof:lastmodified": 1794759033,
+    "wof:lastmodified": 1794759465,
     "wof:name": "AC740 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

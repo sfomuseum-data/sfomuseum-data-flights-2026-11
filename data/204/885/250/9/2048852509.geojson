@@ -2,10 +2,12 @@
   "id": 2048852509,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-14",
+    "date:cessation_upper": "2026-11-14",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-14T09:54:07Z",
+    "edtf:inception": "2026-11-14T05:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144692728"
+    },
     "wof:country": "US",
     "wof:created": 1794758482,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -94,7 +99,7 @@
       1947304301,
       1159284021
     ],
-    "wof:lastmodified": 1794758482,
+    "wof:lastmodified": 1794759434,
     "wof:name": "AA2905 (ORD-SFO)",
     "wof:parent_id": 1947304301,
     "wof:placetype": "custom",

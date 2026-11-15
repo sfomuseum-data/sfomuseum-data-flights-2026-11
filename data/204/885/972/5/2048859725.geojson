@@ -2,10 +2,12 @@
   "id": 2048859725,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-15T00:35:00Z",
+    "edtf:inception": "2026-11-14T20:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.621076,
     "lbl:longitude": -122.390239,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N13113",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144783296"
+    },
     "wof:country": "US",
     "wof:created": 1794759339,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048859725,
     "wof:involves": [
-      102533631,
-      102527513,
       1159285413,
-      1947304489
+      1947304489,
+      1159289939,
+      102533631,
+      102527513
     ],
-    "wof:lastmodified": 1794759339,
+    "wof:lastmodified": 1794759489,
     "wof:name": "UA3036 (SFO-ORD)",
     "wof:parent_id": 1947304489,
     "wof:placetype": "custom",

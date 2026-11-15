@@ -2,10 +2,12 @@
   "id": 2048859487,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-14",
+    "date:cessation_upper": "2026-11-14",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-14T05:27:51Z",
+    "edtf:inception": "2026-11-14T04:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144769718"
+    },
     "wof:country": "US",
     "wof:created": 1794759312,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
@@ -94,7 +99,7 @@
       1947304311,
       1159283597
     ],
-    "wof:lastmodified": 1794759312,
+    "wof:lastmodified": 1794759487,
     "wof:name": "UA1578 (SFO-SBA)",
     "wof:parent_id": 1947304311,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048859397,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-14",
+    "date:cessation_upper": "2026-11-14",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-14T19:17:42Z",
+    "edtf:inception": "2026-11-14T14:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-14",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144715035"
+    },
     "wof:country": "US",
     "wof:created": 1794759301,
     "wof:geomhash": "d26f8a4a9d40aeb65e997520007d0d60",
@@ -88,7 +96,7 @@
       1159285413,
       1947304095
     ],
-    "wof:lastmodified": 1794759301,
+    "wof:lastmodified": 1794759486,
     "wof:name": "UA1054 (SFO-CUN)",
     "wof:parent_id": 1947304095,
     "wof:placetype": "custom",

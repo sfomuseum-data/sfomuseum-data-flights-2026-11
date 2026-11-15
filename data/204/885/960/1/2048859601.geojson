@@ -2,10 +2,12 @@
   "id": 2048859601,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-15T03:49:34Z",
+    "edtf:inception": "2026-11-14T22:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144753713"
+    },
     "wof:country": "US",
     "wof:created": 1794759325,
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
@@ -94,7 +102,7 @@
       1947304495,
       1159283605
     ],
-    "wof:lastmodified": 1794759325,
+    "wof:lastmodified": 1794759487,
     "wof:name": "UA2229 (SFO-PHL)",
     "wof:parent_id": 1947304495,
     "wof:placetype": "custom",

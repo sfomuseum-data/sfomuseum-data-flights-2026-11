@@ -2,10 +2,12 @@
   "id": 2048859503,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-14",
+    "date:cessation_upper": "2026-11-14",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-14T22:48:50Z",
+    "edtf:inception": "2026-11-14T17:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.3291535,
     "geom:longitude": -104.6218995,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102536223,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N17405",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144725452"
+    },
     "wof:country": "US",
     "wof:created": 1794759314,
     "wof:geomhash": "d26f8a4a9d40aeb65e997520007d0d60",
@@ -86,9 +98,10 @@
       102536223,
       102527513,
       1159285413,
-      1947304457
+      1947304457,
+      1528104577
     ],
-    "wof:lastmodified": 1794759314,
+    "wof:lastmodified": 1794759487,
     "wof:name": "UA1679 (SFO-CUN)",
     "wof:parent_id": 1947304457,
     "wof:placetype": "custom",

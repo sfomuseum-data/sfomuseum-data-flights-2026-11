@@ -2,10 +2,12 @@
   "id": 2048853749,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-14",
+    "date:cessation_upper": "2026-11-14",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-14T03:55:09Z",
+    "edtf:inception": "2026-11-14T02:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144763756"
+    },
     "wof:country": "US",
     "wof:created": 1794758645,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -94,7 +99,7 @@
       1947304303,
       1159283849
     ],
-    "wof:lastmodified": 1794758645,
+    "wof:lastmodified": 1794759442,
     "wof:name": "AS613 (LAS-SFO)",
     "wof:parent_id": 1947304303,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048855397,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-14",
+    "date:cessation_upper": "2026-11-14",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-14T05:15:31Z",
+    "edtf:inception": "2026-11-14T00:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144680601"
+    },
     "wof:country": "US",
     "wof:created": 1794758840,
     "wof:geomhash": "46fccc0e56242535ccfd5ecb278f9a75",
@@ -94,7 +99,7 @@
       1947304617,
       1159285749
     ],
-    "wof:lastmodified": 1794758840,
+    "wof:lastmodified": 1794759452,
     "wof:name": "UA1112 (LIH-SFO)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",

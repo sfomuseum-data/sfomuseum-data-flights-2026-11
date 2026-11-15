@@ -2,10 +2,12 @@
   "id": 2048855617,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-14",
+    "date:cessation_upper": "2026-11-14",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-14T03:59:25Z",
+    "edtf:inception": "2026-11-14T02:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-14",
@@ -48,6 +50,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144671332"
+    },
     "wof:country": "US",
     "wof:created": 1794758866,
     "wof:geomhash": "e570a09b358444cf621c068c13b8dbc0",
@@ -88,7 +93,7 @@
       1159285413,
       1947304515
     ],
-    "wof:lastmodified": 1794758866,
+    "wof:lastmodified": 1794759454,
     "wof:name": "UA2262 (RDM-SFO)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

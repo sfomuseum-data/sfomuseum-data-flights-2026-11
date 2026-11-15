@@ -2,10 +2,12 @@
   "id": 2048859121,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-14",
+    "date:cessation_upper": "2026-11-14",
     "date:inception_lower": "2026-11-14",
     "date:inception_upper": "2026-11-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-14",
+    "edtf:cessation": "2026-11-14T07:15:47Z",
+    "edtf:inception": "2026-11-14T05:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-14",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144670689"
+    },
     "wof:country": "US",
     "wof:created": 1794759269,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -51,7 +56,7 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1794759269,
+    "wof:lastmodified": 1794759480,
     "wof:name": "WN1716 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
