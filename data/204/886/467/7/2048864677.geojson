@@ -2,10 +2,12 @@
   "id": 2048864677,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-15",
     "date:inception_upper": "2026-11-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-15",
+    "edtf:cessation": "2026-11-15T23:13:20Z",
+    "edtf:inception": "2026-11-15T22:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144808354"
+    },
     "wof:country": "US",
     "wof:created": 1794845407,
     "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
@@ -94,7 +102,7 @@
       1947304529,
       1159283597
     ],
-    "wof:lastmodified": 1794845407,
+    "wof:lastmodified": 1794846056,
     "wof:name": "UA562 (PSP-SFO)",
     "wof:parent_id": 1947304529,
     "wof:placetype": "custom",

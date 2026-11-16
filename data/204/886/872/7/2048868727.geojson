@@ -2,10 +2,12 @@
   "id": 2048868727,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-15",
     "date:inception_upper": "2026-11-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-15",
+    "edtf:cessation": "2026-11-15T05:23:51Z",
+    "edtf:inception": "2026-11-15T02:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144760261"
+    },
     "wof:country": "US",
     "wof:created": 1794845884,
     "wof:geomhash": "17371a5d27e54a99ca50752d2b6a5e79",
@@ -94,7 +99,7 @@
       1947304609,
       1159284333
     ],
-    "wof:lastmodified": 1794845884,
+    "wof:lastmodified": 1794846093,
     "wof:name": "UA1924 (SFO-STL)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

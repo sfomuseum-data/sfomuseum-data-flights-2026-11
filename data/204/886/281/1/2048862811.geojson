@@ -2,10 +2,12 @@
   "id": 2048862811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-15",
     "date:inception_upper": "2026-11-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-15",
+    "edtf:cessation": "2026-11-15T09:17:33Z",
+    "edtf:inception": "2026-11-15T08:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-11-15",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144772616"
+    },
     "wof:country": "US",
     "wof:created": 1794845180,
     "wof:geomhash": "ef262e0da13c3e8dd354e2b42ae8d539",
@@ -51,7 +59,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1794845180,
+    "wof:lastmodified": 1794846043,
     "wof:name": "DL8831 (OAK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

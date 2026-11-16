@@ -2,10 +2,12 @@
   "id": 2048864807,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-15",
     "date:inception_upper": "2026-11-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-15",
+    "edtf:cessation": "2026-11-15T22:57:57Z",
+    "edtf:inception": "2026-11-15T19:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-15",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144778709"
+    },
     "wof:country": "US",
     "wof:created": 1794845423,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -51,7 +59,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1794845423,
+    "wof:lastmodified": 1794846056,
     "wof:name": "UA8207 (AUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

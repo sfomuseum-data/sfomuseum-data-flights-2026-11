@@ -2,10 +2,12 @@
   "id": 2048864491,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-15",
     "date:inception_upper": "2026-11-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-15",
+    "edtf:cessation": "2026-11-15T05:19:22-08:00",
+    "edtf:inception": "2026-11-15T16:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.475248999999998,
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618774,
     "lbl:longitude": -122.384852,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533997,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N17306",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144793774"
+    },
     "wof:country": "US",
     "wof:created": 1794845385,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -86,9 +98,10 @@
       102527513,
       102533997,
       1159285413,
-      1947304513
+      1947304513,
+      1528104575
     ],
-    "wof:lastmodified": 1794845385,
+    "wof:lastmodified": 1794846054,
     "wof:name": "UA3904 (HNL-SFO)",
     "wof:parent_id": 1947304513,
     "wof:placetype": "custom",

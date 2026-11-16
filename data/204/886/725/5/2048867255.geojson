@@ -2,10 +2,12 @@
   "id": 2048867255,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-15",
     "date:inception_upper": "2026-11-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-15",
+    "edtf:cessation": "2026-11-15T22:58:16Z",
+    "edtf:inception": "2026-11-15T18:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-11-15",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144802800"
+    },
     "wof:country": "US",
     "wof:created": 1794845711,
     "wof:geomhash": "7027f9178c7d77a5f6f9a377b7a1bb37",
@@ -51,7 +59,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1794845711,
+    "wof:lastmodified": 1794846083,
     "wof:name": "DL422 (SFO-FAT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

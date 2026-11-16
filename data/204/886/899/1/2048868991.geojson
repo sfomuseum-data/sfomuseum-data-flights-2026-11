@@ -2,10 +2,12 @@
   "id": 2048868991,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-15",
     "date:inception_upper": "2026-11-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-15",
+    "edtf:cessation": "2026-11-15T11:51:06Z",
+    "edtf:inception": "2026-11-15T08:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144771274"
+    },
     "wof:country": "US",
     "wof:created": 1794845916,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -94,7 +99,7 @@
       1947304151,
       1159284333
     ],
-    "wof:lastmodified": 1794845916,
+    "wof:lastmodified": 1794846095,
     "wof:name": "UA505 (SFO-IAH)",
     "wof:parent_id": 1947304151,
     "wof:placetype": "custom",

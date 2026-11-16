@@ -2,10 +2,12 @@
   "id": 2048867673,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-15",
-    "date:inception_upper": "2026-11-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-15",
+    "date:cessation_lower": "2026-11-16",
+    "date:cessation_upper": "2026-11-16",
+    "date:inception_lower": "2026-11-16",
+    "date:inception_upper": "2026-11-16",
+    "edtf:cessation": "2026-11-16T21:41:00Z",
+    "edtf:inception": "2026-11-16T05:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "VN",
     "flysfo:date": "2026-11-15",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144770511"
+    },
     "wof:country": "US",
     "wof:created": 1794845761,
     "wof:geomhash": "a9bd12f81c63da183812f670f2a99bda",
@@ -88,7 +96,7 @@
       1159285479,
       1947304075
     ],
-    "wof:lastmodified": 1794845761,
+    "wof:lastmodified": 1794846086,
     "wof:name": "VN99 (SFO-SGN)",
     "wof:parent_id": 1947304075,
     "wof:placetype": "custom",

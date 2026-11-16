@@ -2,10 +2,12 @@
   "id": 2048864507,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-15",
     "date:inception_upper": "2026-11-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-15",
+    "edtf:cessation": "2026-11-15T15:58:00Z",
+    "edtf:inception": "2026-11-15T10:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-15",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144842909"
+    },
     "wof:country": "US",
     "wof:created": 1794845387,
     "wof:geomhash": "46fccc0e56242535ccfd5ecb278f9a75",
@@ -88,7 +96,7 @@
       1159285413,
       1947304453
     ],
-    "wof:lastmodified": 1794845387,
+    "wof:lastmodified": 1794846054,
     "wof:name": "UA3939 (LIH-SFO)",
     "wof:parent_id": 1947304453,
     "wof:placetype": "custom",

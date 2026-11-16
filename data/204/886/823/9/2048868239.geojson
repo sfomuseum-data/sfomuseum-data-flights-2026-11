@@ -2,10 +2,12 @@
   "id": 2048868239,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-15",
     "date:inception_upper": "2026-11-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-15",
+    "edtf:cessation": "2026-11-15T19:11:35Z",
+    "edtf:inception": "2026-11-15T18:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.907347,
     "geom:longitude": -120.3621325,
     "iata:airline": "WN",
+    "icao:aircraft": "B738",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 1746879083,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N8582Z",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144802622"
+    },
     "wof:country": "US",
     "wof:created": 1794845827,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048868239,
     "wof:involves": [
+      1159289871,
       1746879083,
       102527513,
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1794845827,
+    "wof:lastmodified": 1794846090,
     "wof:name": "WN3839 (SFO-BUR)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

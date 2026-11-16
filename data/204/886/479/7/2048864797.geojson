@@ -2,10 +2,12 @@
   "id": 2048864797,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-15",
     "date:inception_upper": "2026-11-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-15",
+    "edtf:cessation": "2026-11-15T06:07:10-08:00",
+    "edtf:inception": "2026-11-15T21:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-15",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.427454999999995,
     "geom:longitude": -121.5070865,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527351,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N496UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144792738"
+    },
     "wof:country": "US",
     "wof:created": 1794845422,
     "wof:geomhash": "2af895d7dc7816e28cbc6da81f2a802b",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2048864797,
     "wof:involves": [
-      102527513,
-      102527351,
       1159285413,
-      -1
+      1159292085,
+      102527513,
+      102527351
     ],
-    "wof:lastmodified": 1794845422,
+    "wof:lastmodified": 1794846056,
     "wof:name": "UA8109 (SBP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048868883,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-15",
+    "date:cessation_upper": "2026-11-15",
     "date:inception_lower": "2026-11-15",
     "date:inception_upper": "2026-11-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-15",
+    "edtf:cessation": "2026-11-15T12:33:44Z",
+    "edtf:inception": "2026-11-15T07:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144771161"
+    },
     "wof:country": "US",
     "wof:created": 1794845903,
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
@@ -94,7 +99,7 @@
       1947304491,
       1779770723
     ],
-    "wof:lastmodified": 1794845903,
+    "wof:lastmodified": 1794846094,
     "wof:name": "UA2799 (SFO-MCO)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",
