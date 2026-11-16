@@ -1,0 +1,72 @@
+{
+  "id": 2048864797,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-15",
+    "date:inception_upper": "2026-11-15",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-15",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-11-15",
+    "flysfo:estimated_timestamp": 1794780180,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA8109",
+    "flysfo:gate": "",
+    "flysfo:journey": "SBP-SFO",
+    "flysfo:scheduled_timestamp": 1794771360,
+    "flysfo:timestamp": 1794780180,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.236920,-120.643230,37.617990",
+    "geom:latitude": 36.427454999999995,
+    "geom:longitude": -121.5070865,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527351,
+    "sfomuseum:flight_id": "20261115-A-UAL-8109",
+    "sfomuseum:flight_number": [
+      "UAL8109",
+      "UA8109"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1794845422,
+    "wof:geomhash": "2af895d7dc7816e28cbc6da81f2a802b",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048864797,
+        "flight_id": 2048864797
+      }
+    ],
+    "wof:id": 2048864797,
+    "wof:involves": [
+      102527513,
+      102527351,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1794845422,
+    "wof:name": "UA8109 (SBP-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.23692,
+    -120.64323,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-120.64323,35.23692],[-122.370943,37.61799]]}
+}
