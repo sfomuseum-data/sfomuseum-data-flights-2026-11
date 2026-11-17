@@ -2,10 +2,12 @@
   "id": 2048878353,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-16",
-    "date:inception_upper": "2026-11-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-16",
+    "date:cessation_lower": "2026-11-17",
+    "date:cessation_upper": "2026-11-17",
+    "date:inception_lower": "2026-11-17",
+    "date:inception_upper": "2026-11-17",
+    "edtf:cessation": "2026-11-17T08:14:33Z",
+    "edtf:inception": "2026-11-17T06:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 42.621838,
     "geom:longitude": -119.95142949999999,
     "iata:airline": "UA",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533331,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N882UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144833743"
+    },
     "wof:country": "US",
     "wof:created": 1794932288,
     "wof:geomhash": "9d5970fb497c224f692cb976d5929b90",
@@ -49,9 +61,9 @@
       102533331,
       102527513,
       1159285413,
-      -1
+      1159289407
     ],
-    "wof:lastmodified": 1794932288,
+    "wof:lastmodified": 1794932465,
     "wof:name": "UA8157 (SFO-GEG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

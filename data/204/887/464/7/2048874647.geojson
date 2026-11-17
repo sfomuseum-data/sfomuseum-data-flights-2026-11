@@ -2,10 +2,12 @@
   "id": 2048874647,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-16",
+    "date:cessation_upper": "2026-11-16",
     "date:inception_lower": "2026-11-16",
     "date:inception_upper": "2026-11-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-16",
+    "edtf:cessation": "2026-11-16T20:05:36Z",
+    "edtf:inception": "2026-11-16T05:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-11-16",
@@ -48,6 +50,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144844307"
+    },
     "wof:country": "US",
     "wof:created": 1794931859,
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
@@ -88,7 +93,7 @@
       1159283849,
       1947304265
     ],
-    "wof:lastmodified": 1794931859,
+    "wof:lastmodified": 1794932436,
     "wof:name": "AA35 (SFO-PHL)",
     "wof:parent_id": 1947304265,
     "wof:placetype": "custom",

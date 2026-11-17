@@ -2,10 +2,12 @@
   "id": 2048876873,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-17",
+    "date:cessation_upper": "2026-11-17",
     "date:inception_lower": "2026-11-16",
     "date:inception_upper": "2026-11-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-16",
+    "edtf:cessation": "2026-11-17T04:11:39Z",
+    "edtf:inception": "2026-11-16T22:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:date": "2026-11-16",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144898076"
+    },
     "wof:country": "US",
     "wof:created": 1794932118,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -88,7 +96,7 @@
       1159284583,
       1947304315
     ],
-    "wof:lastmodified": 1794932118,
+    "wof:lastmodified": 1794932450,
     "wof:name": "B61234 (SFO-BOS)",
     "wof:parent_id": 1947304315,
     "wof:placetype": "custom",
