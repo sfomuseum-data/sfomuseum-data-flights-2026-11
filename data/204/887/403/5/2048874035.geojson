@@ -1,0 +1,72 @@
+{
+  "id": 2048874035,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-16",
+    "date:inception_upper": "2026-11-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-11-16",
+    "flysfo:estimated_timestamp": 1794870060,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA8158",
+    "flysfo:gate": "",
+    "flysfo:journey": "OGG-SFO",
+    "flysfo:scheduled_timestamp": 1794869040,
+    "flysfo:timestamp": 1794870060,
+    "geom:area": 0,
+    "geom:bbox": "-156.437877,20.894952,-122.370943,37.617990",
+    "geom:latitude": 29.256470999999998,
+    "geom:longitude": -139.40440999999998,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102532929,
+    "sfomuseum:flight_id": "20261116-A-UAL-8158",
+    "sfomuseum:flight_number": [
+      "UAL8158",
+      "UA8158"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1794931788,
+    "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048874035,
+        "flight_id": 2048874035
+      }
+    ],
+    "wof:id": 2048874035,
+    "wof:involves": [
+      102527513,
+      102532929,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1794931788,
+    "wof:name": "UA8158 (OGG-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -156.437877,
+    20.894952,
+    -122.370943,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-156.437877,20.894952],[-122.370943,37.61799]]}
+}

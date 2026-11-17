@@ -1,0 +1,72 @@
+{
+  "id": 2048873007,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-16",
+    "date:inception_upper": "2026-11-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "SY",
+    "flysfo:date": "2026-11-16",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "SY8248",
+    "flysfo:gate": "",
+    "flysfo:journey": "IFP-SFO",
+    "flysfo:scheduled_timestamp": 1794885780,
+    "flysfo:timestamp": 1794885780,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.165451,-114.555160,37.617990",
+    "geom:latitude": 36.3917205,
+    "geom:longitude": -118.4630515,
+    "iata:airline": "SY",
+    "icao:airline": "SCX",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285227,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102532821,
+    "sfomuseum:flight_id": "20261116-A-SCX-8248",
+    "sfomuseum:flight_number": [
+      "SCX8248",
+      "SY8248"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1794931667,
+    "wof:geomhash": "c6ee95c95d0fe34c75d2b121f2e90400",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048873007,
+        "flight_id": 2048873007
+      }
+    ],
+    "wof:id": 2048873007,
+    "wof:involves": [
+      102527513,
+      102532821,
+      1159285227,
+      -1
+    ],
+    "wof:lastmodified": 1794931667,
+    "wof:name": "SY8248 (IFP-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.165451,
+    -114.55516,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-114.55516,35.165451],[-122.370943,37.61799]]}
+}

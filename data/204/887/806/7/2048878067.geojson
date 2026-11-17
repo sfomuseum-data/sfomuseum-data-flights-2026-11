@@ -1,0 +1,72 @@
+{
+  "id": 2048878067,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-16",
+    "date:inception_upper": "2026-11-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-11-16",
+    "flysfo:estimated_timestamp": 1794891600,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA3912",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-MNL",
+    "flysfo:scheduled_timestamp": 1794891600,
+    "flysfo:timestamp": 1794891600,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,14.517768,121.015152,37.617990",
+    "geom:latitude": 26.067878999999998,
+    "geom:longitude": -0.6778954999999982,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102553219,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261116-D-UAL-3912",
+    "sfomuseum:flight_number": [
+      "UAL3912",
+      "UA3912"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1794932254,
+    "wof:geomhash": "d86898d5d90d953f6630362144c30ee0",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048878067,
+        "flight_id": 2048878067
+      }
+    ],
+    "wof:id": 2048878067,
+    "wof:involves": [
+      102553219,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1794932254,
+    "wof:name": "UA3912 (SFO-MNL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    14.517768,
+    121.015152,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[121.015152,14.517768]]}
+}
