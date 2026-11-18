@@ -1,0 +1,72 @@
+{
+  "id": 2048884567,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-17",
+    "date:inception_upper": "2026-11-17",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-17",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-11-17",
+    "flysfo:estimated_timestamp": 1794930540,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL460",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-MTY",
+    "flysfo:scheduled_timestamp": 1794930540,
+    "flysfo:timestamp": 1794930540,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,25.780084,-100.114904,37.617990",
+    "geom:latitude": 31.699036999999997,
+    "geom:longitude": -111.24292349999999,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102536351,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261117-D-DAL-460",
+    "sfomuseum:flight_number": [
+      "DAL460",
+      "DL460"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1795018351,
+    "wof:geomhash": "48153b691162a6beee6fa4d9e191993e",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048884567,
+        "flight_id": 2048884567
+      }
+    ],
+    "wof:id": 2048884567,
+    "wof:involves": [
+      102536351,
+      102527513,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1795018351,
+    "wof:name": "DL460 (SFO-MTY)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    25.780084,
+    -100.114904,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-100.114904,25.780084]]}
+}
