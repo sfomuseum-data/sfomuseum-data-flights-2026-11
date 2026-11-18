@@ -2,10 +2,12 @@
   "id": 2048885755,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-18",
+    "date:cessation_upper": "2026-11-18",
     "date:inception_lower": "2026-11-17",
     "date:inception_upper": "2026-11-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-17",
+    "edtf:cessation": "2026-11-18T06:50:51Z",
+    "edtf:inception": "2026-11-17T22:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-17",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144970093"
+    },
     "wof:country": "US",
     "wof:created": 1795018476,
     "wof:geomhash": "f971d3f872ee602b2fa6051cf4be0e69",
@@ -88,7 +96,7 @@
       1159285413,
       1947304157
     ],
-    "wof:lastmodified": 1795018476,
+    "wof:lastmodified": 1795018641,
     "wof:name": "UA115 (SFO-PPT)",
     "wof:parent_id": 1947304157,
     "wof:placetype": "custom",

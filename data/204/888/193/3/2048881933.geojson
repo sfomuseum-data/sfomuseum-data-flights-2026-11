@@ -2,10 +2,12 @@
   "id": 2048881933,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-17",
+    "date:cessation_upper": "2026-11-17",
     "date:inception_lower": "2026-11-17",
     "date:inception_upper": "2026-11-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-17",
+    "edtf:cessation": "2026-11-17T23:07:31Z",
+    "edtf:inception": "2026-11-17T22:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144972527"
+    },
     "wof:country": "US",
     "wof:created": 1795018071,
     "wof:geomhash": "a35a6e87f0ae0f1f716f88067ee31aa3",
@@ -94,7 +102,7 @@
       1947304603,
       1159283597
     ],
-    "wof:lastmodified": 1795018071,
+    "wof:lastmodified": 1795018618,
     "wof:name": "UA1430 (PSP-SFO)",
     "wof:parent_id": 1947304603,
     "wof:placetype": "custom",

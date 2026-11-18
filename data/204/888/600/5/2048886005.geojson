@@ -2,10 +2,12 @@
   "id": 2048886005,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-17",
+    "date:cessation_upper": "2026-11-17",
     "date:inception_lower": "2026-11-17",
     "date:inception_upper": "2026-11-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-17",
+    "edtf:cessation": "2026-11-17T21:38:57Z",
+    "edtf:inception": "2026-11-17T16:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144942130"
+    },
     "wof:country": "US",
     "wof:created": 1795018502,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -94,7 +102,7 @@
       1947304487,
       1159283697
     ],
-    "wof:lastmodified": 1795018502,
+    "wof:lastmodified": 1795018644,
     "wof:name": "UA2647 (SFO-BOS)",
     "wof:parent_id": 1947304487,
     "wof:placetype": "custom",

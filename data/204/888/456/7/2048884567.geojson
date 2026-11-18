@@ -2,10 +2,12 @@
   "id": 2048884567,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-17",
+    "date:cessation_upper": "2026-11-17",
     "date:inception_lower": "2026-11-17",
     "date:inception_upper": "2026-11-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-17",
+    "edtf:cessation": "2026-11-17T20:20:37Z",
+    "edtf:inception": "2026-11-17T18:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-11-17",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144955068"
+    },
     "wof:country": "US",
     "wof:created": 1795018351,
     "wof:geomhash": "48153b691162a6beee6fa4d9e191993e",
@@ -51,7 +59,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1795018351,
+    "wof:lastmodified": 1795018635,
     "wof:name": "DL460 (SFO-MTY)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

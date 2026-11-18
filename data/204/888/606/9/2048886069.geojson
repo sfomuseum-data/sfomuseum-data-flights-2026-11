@@ -2,10 +2,12 @@
   "id": 2048886069,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-17",
+    "date:cessation_upper": "2026-11-17",
     "date:inception_lower": "2026-11-17",
     "date:inception_upper": "2026-11-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-17",
+    "edtf:cessation": "2026-11-17T11:59:07Z",
+    "edtf:inception": "2026-11-17T08:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-17",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144987450"
+    },
     "wof:country": "US",
     "wof:created": 1795018509,
     "wof:geomhash": "b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
@@ -51,7 +56,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1795018509,
+    "wof:lastmodified": 1795018644,
     "wof:name": "UA3915 (SFO-HKG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
