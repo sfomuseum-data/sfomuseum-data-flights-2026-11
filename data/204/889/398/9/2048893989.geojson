@@ -2,10 +2,12 @@
   "id": 2048893989,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-18",
+    "date:cessation_upper": "2026-11-18",
     "date:inception_lower": "2026-11-18",
     "date:inception_upper": "2026-11-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-18",
+    "edtf:cessation": "2026-11-18T03:54:52Z",
+    "edtf:inception": "2026-11-18T00:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144987563"
+    },
     "wof:country": "US",
     "wof:created": 1795105066,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -94,7 +99,7 @@
       1947304609,
       1159283597
     ],
-    "wof:lastmodified": 1795105066,
+    "wof:lastmodified": 1795105246,
     "wof:name": "UA1375 (SFO-DFW)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

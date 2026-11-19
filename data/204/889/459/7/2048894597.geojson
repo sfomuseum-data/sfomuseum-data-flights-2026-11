@@ -2,10 +2,12 @@
   "id": 2048894597,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-18",
+    "date:cessation_upper": "2026-11-18",
     "date:inception_lower": "2026-11-18",
     "date:inception_upper": "2026-11-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-18",
+    "edtf:cessation": "2026-11-18T10:43:01Z",
+    "edtf:inception": "2026-11-18T01:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144987128"
+    },
     "wof:country": "US",
     "wof:created": 1795105139,
     "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
@@ -94,7 +99,7 @@
       1947304149,
       1159283597
     ],
-    "wof:lastmodified": 1795105139,
+    "wof:lastmodified": 1795105249,
     "wof:name": "UA930 (SFO-LHR)",
     "wof:parent_id": 1947304149,
     "wof:placetype": "custom",

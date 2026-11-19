@@ -2,10 +2,12 @@
   "id": 2048894331,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-18",
+    "date:cessation_upper": "2026-11-18",
     "date:inception_lower": "2026-11-18",
     "date:inception_upper": "2026-11-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-18",
+    "edtf:cessation": "2026-11-18T06:13:14Z",
+    "edtf:inception": "2026-11-18T01:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144987558"
+    },
     "wof:country": "US",
     "wof:created": 1795105108,
     "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
@@ -94,7 +99,7 @@
       1947304491,
       1159283597
     ],
-    "wof:lastmodified": 1795105108,
+    "wof:lastmodified": 1795105248,
     "wof:name": "UA537 (SFO-OGG)",
     "wof:parent_id": 1947304491,
     "wof:placetype": "custom",

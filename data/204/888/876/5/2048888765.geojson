@@ -2,10 +2,12 @@
   "id": 2048888765,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-18",
+    "date:cessation_upper": "2026-11-18",
     "date:inception_lower": "2026-11-18",
     "date:inception_upper": "2026-11-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-18",
+    "edtf:cessation": "2026-11-18T03:40:20-08:00",
+    "edtf:inception": "2026-11-18T12:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-11-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
     "iata:airline": "DL",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530741,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N597DT",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "145007770"
+    },
     "wof:country": "US",
     "wof:created": 1795104421,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2048888765,
     "wof:involves": [
+      1377564297,
       102527513,
       102530741,
       1159284261,
       1947304675
     ],
-    "wof:lastmodified": 1795104421,
+    "wof:lastmodified": 1795105224,
     "wof:name": "DL977 (BOS-SFO)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",

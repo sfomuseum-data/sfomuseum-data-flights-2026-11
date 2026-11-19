@@ -2,10 +2,12 @@
   "id": 2048894519,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-18",
+    "date:cessation_upper": "2026-11-18",
     "date:inception_lower": "2026-11-18",
     "date:inception_upper": "2026-11-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-18",
+    "edtf:cessation": "2026-11-18T03:47:24Z",
+    "edtf:inception": "2026-11-18T01:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-18",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144987228"
+    },
     "wof:country": "US",
     "wof:created": 1795105130,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -51,7 +56,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1795105130,
+    "wof:lastmodified": 1795105249,
     "wof:name": "UA8143 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

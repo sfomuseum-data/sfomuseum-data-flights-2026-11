@@ -2,10 +2,12 @@
   "id": 2048893681,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-18",
+    "date:cessation_upper": "2026-11-18",
     "date:inception_lower": "2026-11-18",
     "date:inception_upper": "2026-11-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-18",
+    "edtf:cessation": "2026-11-18T04:36:24Z",
+    "edtf:inception": "2026-11-18T03:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-11-18",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.907347,
     "geom:longitude": -120.3621325,
     "iata:airline": "WN",
+    "icao:aircraft": "B737",
     "icao:airline": "SWA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159289869,
     "sfomuseum:airline_id": 1159285591,
     "sfomuseum:arrival_id": 1746879083,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N7731A",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +56,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144994510"
+    },
     "wof:country": "US",
     "wof:created": 1795105030,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
@@ -83,12 +94,13 @@
     ],
     "wof:id": 2048893681,
     "wof:involves": [
+      1159289869,
       1746879083,
       102527513,
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1795105030,
+    "wof:lastmodified": 1795105245,
     "wof:name": "WN3840 (SFO-BUR)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2048890189,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-18",
+    "date:cessation_upper": "2026-11-18",
     "date:inception_lower": "2026-11-18",
     "date:inception_upper": "2026-11-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-18",
+    "edtf:cessation": "2026-11-18T05:03:14Z",
+    "edtf:inception": "2026-11-18T03:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "144995415"
+    },
     "wof:country": "US",
     "wof:created": 1795104599,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -94,7 +99,7 @@
       1947304487,
       1159283597
     ],
-    "wof:lastmodified": 1795104599,
+    "wof:lastmodified": 1795105231,
     "wof:name": "UA2615 (PDX-SFO)",
     "wof:parent_id": 1947304487,
     "wof:placetype": "custom",

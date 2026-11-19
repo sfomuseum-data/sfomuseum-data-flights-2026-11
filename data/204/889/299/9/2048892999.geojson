@@ -2,10 +2,12 @@
   "id": 2048892999,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-11-18",
+    "date:cessation_upper": "2026-11-18",
     "date:inception_lower": "2026-11-18",
     "date:inception_upper": "2026-11-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-18",
+    "edtf:cessation": "2026-11-18T11:18:49Z",
+    "edtf:inception": "2026-11-18T08:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "144999553"
+    },
     "wof:country": "US",
     "wof:created": 1795104938,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -57,7 +62,7 @@
       -1,
       1360700749
     ],
-    "wof:lastmodified": 1795104938,
+    "wof:lastmodified": 1795105242,
     "wof:name": "F92930 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
