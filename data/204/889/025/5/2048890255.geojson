@@ -1,0 +1,72 @@
+{
+  "id": 2048890255,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-18",
+    "date:inception_upper": "2026-11-18",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-18",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-11-18",
+    "flysfo:estimated_timestamp": 1795048440,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA3901",
+    "flysfo:gate": "",
+    "flysfo:journey": "HKG-SFO",
+    "flysfo:scheduled_timestamp": 1795048440,
+    "flysfo:timestamp": 1795048440,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,22.307471,113.927436,37.617990",
+    "geom:latitude": 29.9627305,
+    "geom:longitude": -4.221753499999998,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102541737,
+    "sfomuseum:flight_id": "20261118-A-UAL-3901",
+    "sfomuseum:flight_number": [
+      "UAL3901",
+      "UA3901"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1795104607,
+    "wof:geomhash": "300aa0b6d6fd1fa7d09bf740f0e0c265",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048890255,
+        "flight_id": 2048890255
+      }
+    ],
+    "wof:id": 2048890255,
+    "wof:involves": [
+      102527513,
+      102541737,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1795104607,
+    "wof:name": "UA3901 (HKG-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    22.307471,
+    113.927436,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[113.927436,22.307471],[-122.370943,37.61799]]}
+}
