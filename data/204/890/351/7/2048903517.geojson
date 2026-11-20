@@ -1,0 +1,72 @@
+{
+  "id": 2048903517,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-19",
+    "date:inception_upper": "2026-11-19",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-19",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-11-19",
+    "flysfo:estimated_timestamp": 1795139580,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8143",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-LAS",
+    "flysfo:scheduled_timestamp": 1795139580,
+    "flysfo:timestamp": 1795139580,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527209,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20261119-D-UAL-8143",
+    "sfomuseum:flight_number": [
+      "UAL8143",
+      "UA8143"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1795191511,
+    "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048903517,
+        "flight_id": 2048903517
+      }
+    ],
+    "wof:id": 2048903517,
+    "wof:involves": [
+      102527209,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1795191511,
+    "wof:name": "UA8143 (SFO-LAS)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    36.081003,
+    -115.15644,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]]}
+}
