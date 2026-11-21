@@ -1,0 +1,72 @@
+{
+  "id": 2048907963,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-20",
+    "date:inception_upper": "2026-11-20",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-20",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-11-20",
+    "flysfo:estimated_timestamp": 1795184580,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA3871",
+    "flysfo:gate": "",
+    "flysfo:journey": "XMN-SFO",
+    "flysfo:scheduled_timestamp": 1795184580,
+    "flysfo:timestamp": 1795184580,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,24.540839,118.135698,37.617990",
+    "geom:latitude": 31.0794145,
+    "geom:longitude": -2.117622499999996,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102550865,
+    "sfomuseum:flight_id": "20261120-A-UAL-3871",
+    "sfomuseum:flight_number": [
+      "UAL3871",
+      "UA3871"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1795277356,
+    "wof:geomhash": "9b7a8ac18e2e6d9aa22af32dfdd43b07",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2048907963,
+        "flight_id": 2048907963
+      }
+    ],
+    "wof:id": 2048907963,
+    "wof:involves": [
+      102527513,
+      102550865,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1795277356,
+    "wof:name": "UA3871 (XMN-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    24.540839,
+    118.135698,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[118.135698,24.540839],[-122.370943,37.61799]]}
+}
