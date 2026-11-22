@@ -2,10 +2,12 @@
   "id": 2048917053,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-21",
-    "date:inception_upper": "2026-11-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-21",
+    "date:cessation_lower": "2026-11-21",
+    "date:cessation_upper": "2026-11-21",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-11-21T04:27:20-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -61.410693,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "XL2",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617615,
@@ -39,6 +42,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N31114",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -94,7 +101,7 @@
       1947304141,
       1159283597
     ],
-    "wof:lastmodified": 1795363724,
+    "wof:lastmodified": 1795364275,
     "wof:name": "UA900 (LHR-SFO)",
     "wof:parent_id": 1947304141,
     "wof:placetype": "custom",

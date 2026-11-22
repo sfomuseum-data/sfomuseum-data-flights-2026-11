@@ -2,10 +2,12 @@
   "id": 2064647935,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-11-21",
     "date:inception_upper": "2026-11-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-21",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-11-21T08:35:16-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20261121-D-AFR-8811",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N3766",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2064647935,
     "wof:involves": [
-      102533795,
       102527513,
       1159284261,
       1947304675,
-      1159283627
+      1159283627,
+      1159289871,
+      102533795
     ],
-    "wof:lastmodified": 1795363975,
+    "wof:lastmodified": 1795364286,
     "wof:name": "DL2267 (SFO-LAX)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",
