@@ -1,0 +1,72 @@
+{
+  "id": 2064652575,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-22",
+    "date:inception_upper": "2026-11-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-22",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-11-22",
+    "flysfo:estimated_timestamp": 1795389840,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL8841",
+    "flysfo:gate": "",
+    "flysfo:journey": "SJC-SFO",
+    "flysfo:scheduled_timestamp": 1795387080,
+    "flysfo:timestamp": 1795389840,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.363728,-121.928755,37.617990",
+    "geom:latitude": 37.490859,
+    "geom:longitude": -122.14984899999999,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527529,
+    "sfomuseum:flight_id": "20261122-A-DAL-8841",
+    "sfomuseum:flight_number": [
+      "DAL8841",
+      "DL8841"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1795449972,
+    "wof:geomhash": "5aa704d308ccde2b747329ebb6ffcf42",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2064652575,
+        "flight_id": 2064652575
+      }
+    ],
+    "wof:id": 2064652575,
+    "wof:involves": [
+      102527513,
+      102527529,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1795449972,
+    "wof:name": "DL8841 (SJC-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.363728,
+    -121.928755,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]]}
+}
