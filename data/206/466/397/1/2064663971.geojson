@@ -2,10 +2,12 @@
   "id": 2064663971,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-11-23",
     "date:inception_upper": "2026-11-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-23",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-11-23T03:19:20-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:base_flight_id": "20261123-D-BAW-5612",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N954XV",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2064663971,
     "wof:involves": [
-      102533631,
       102527513,
       1159283849,
       1947304283,
-      1159284021
+      1159284021,
+      1377564297,
+      102533631
     ],
-    "wof:lastmodified": 1795536587,
+    "wof:lastmodified": 1795537090,
     "wof:name": "AA1253 (SFO-ORD)",
     "wof:parent_id": 1947304283,
     "wof:placetype": "custom",
