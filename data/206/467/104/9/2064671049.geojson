@@ -1,0 +1,72 @@
+{
+  "id": 2064671049,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-24",
+    "date:inception_upper": "2026-11-24",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-24",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "SY",
+    "flysfo:date": "2026-11-24",
+    "flysfo:estimated_timestamp": 1795567620,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "SY395",
+    "flysfo:gate": "",
+    "flysfo:journey": "MSP-SFO",
+    "flysfo:scheduled_timestamp": 1795568820,
+    "flysfo:timestamp": 1795568820,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-93.200317,44.883321",
+    "geom:latitude": 41.2506555,
+    "geom:longitude": -107.78563,
+    "iata:airline": "SY",
+    "icao:airline": "SCX",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285227,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531131,
+    "sfomuseum:flight_id": "20261124-A-SCX-395",
+    "sfomuseum:flight_number": [
+      "SCX395",
+      "SY395"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1795622840,
+    "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2064671049,
+        "flight_id": 2064671049
+      }
+    ],
+    "wof:id": 2064671049,
+    "wof:involves": [
+      102527513,
+      102531131,
+      1159285227,
+      -1
+    ],
+    "wof:lastmodified": 1795622840,
+    "wof:name": "SY395 (MSP-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -93.200317,
+    44.883321
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]]}
+}

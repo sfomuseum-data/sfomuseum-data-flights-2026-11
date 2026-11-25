@@ -1,0 +1,72 @@
+{
+  "id": 2064670061,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-11-24",
+    "date:inception_upper": "2026-11-24",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-11-24",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "CZ",
+    "flysfo:date": "2026-11-24",
+    "flysfo:estimated_timestamp": 1795578720,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "CZ657",
+    "flysfo:gate": "",
+    "flysfo:journey": "CAN-SFO",
+    "flysfo:scheduled_timestamp": 1795578000,
+    "flysfo:timestamp": 1795578720,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,23.447348,113.399556,37.617990",
+    "geom:latitude": 30.532669,
+    "geom:longitude": -4.4856934999999964,
+    "iata:airline": "CZ",
+    "icao:airline": "CSN",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284165,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102550391,
+    "sfomuseum:flight_id": "20261124-A-CSN-657",
+    "sfomuseum:flight_number": [
+      "CSN657",
+      "CZ657"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1795622722,
+    "wof:geomhash": "247e1e318adb65668d4614fd3ca74ae2",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2064670061,
+        "flight_id": 2064670061
+      }
+    ],
+    "wof:id": 2064670061,
+    "wof:involves": [
+      102527513,
+      102550391,
+      1159284165,
+      -1
+    ],
+    "wof:lastmodified": 1795622722,
+    "wof:name": "CZ657 (CAN-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-11",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    23.447348,
+    113.399556,
+    37.61799
+  ],
+  "geometry": {"type":"MultiPoint","coordinates":[[113.399556,23.447348],[-122.370943,37.61799]]}
+}
