@@ -2,10 +2,12 @@
   "id": 2064676361,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-11-24",
     "date:inception_upper": "2026-11-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-24",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-11-24T00:40:06-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.4384925,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533591,
     "sfomuseum:base_flight_id": "20261124-D-ACA-4278",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N899UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2064676361,
     "wof:involves": [
-      102533591,
       102527513,
       1159285413,
       1947304385,
-      1159283597
+      1159283597,
+      1159289407,
+      102533591
     ],
-    "wof:lastmodified": 1795623451,
+    "wof:lastmodified": 1795623570,
     "wof:name": "UA717 (SFO-PSP)",
     "wof:parent_id": 1947304385,
     "wof:placetype": "custom",

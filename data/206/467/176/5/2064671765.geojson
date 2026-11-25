@@ -2,10 +2,12 @@
   "id": 2064671765,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-11-24",
-    "date:inception_upper": "2026-11-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-11-24",
+    "date:cessation_lower": "2026-11-24",
+    "date:cessation_upper": "2026-11-24",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-11-24T11:58:18-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-11-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.627254,
     "geom:longitude": -103.4008145,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526927,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N17335",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -83,12 +91,13 @@
     ],
     "wof:id": 2064671765,
     "wof:involves": [
-      102527513,
-      102526927,
       1159285413,
-      1763588337
+      1763588337,
+      1528104575,
+      102527513,
+      102526927
     ],
-    "wof:lastmodified": 1795622924,
+    "wof:lastmodified": 1795623549,
     "wof:name": "UA343 (ATL-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",
